@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.wmich.cs1120.LA1.AashrayShrestha","l":"BinaryTree"},{"p":"edu.wmich.cs1120.LA1.AashrayShrestha","l":"INode"},{"p":"edu.wmich.cs1120.LA1.AashrayShrestha","l":"TreeDataStructure"}]

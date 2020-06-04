@@ -1,0 +1,1416 @@
+
+n=1
+Bag 1 using Open Hashing with my Hashing Function1: 
+	(Fine Patrol Torch, 169);
+	(Rare Peacemaker's Scepter, 827); (Rare Peacemaker's Scepter, 827);
+	(Masterwork Bandit Short Bow, 778);
+	(Rare Verdant Speargun, 611); (Fine Skale Zapper, 196);
+	(Rare Lionguard Scepter, 579);
+	(Rare Glyphic Short Bow, 416); (Masterwork Lion's Fang Model II, 231);
+	(Rare Lionguard Mace, 566); (Rare Lionguard Mace, 418); (Rare Lionguard Mace, 566);
+	(Rare Verdant Mace, 579);
+	(Fine Bandit Mallet, 702);
+	(Masterwork Jeev's Glossy Focus, 253);
+	(Rare Glyphic Longblade, 454);
+	(Fine Portal Shatterer, 197); (Rare Shiverpeak Hatchet, 384); (Rare Krytan Warhammer, 413); (Rare Krytan Warhammer, 413);
+	(Fine Will's Spear, 170);
+	(Fine Lionguard-Issue Sword, 186);
+	(Rare Lionguard Short Bow, 401); (Fine Force-Amplifying Impact Device, 175);
+	(Masterwork Sentinel's Pistol, 395); (Rare Lionguard Dagger, 396); (Rare Lionguard Dagger, 829); (Rare Lionguard Dagger, 584);
+	(Rare Ebon Vanguard Rifle, 473);
+	(Rare Wolfborn Dagger, 869);
+	(Masterwork Bandit Spire, 833); (Rare Bandit Sunderer, 924);
+	(Fine Separatist Rifle, 190);
+	(Rare Flame Crusher, 624);
+	(Fine Togatl Harpoon, 219);
+	(Rare Seraph Rifle, 915); (Masterwork Arundon Pistol, 631);
+	(Rare Verdant Dagger, 584);
+	(Rare Lionguard Hammer, 453); (Rare Warden Spear, 815);
+	(Rare Warden Dagger, 866);
+	(Fine Elmder's Mace, 164);
+	(Fine Caer Longbow, 490);
+	(Fine Militia Shield, 151); (Fine Militia Shield, 151);
+	(Fine Researcher's Focus, 207);
+	(Fine Crusader's Sword, 467);
+	(Fine Trusty Pistol, 179); (Fine Sharptail Short Bow, 153);
+	(Rare Glyphic Rifle, 465);
+	(Fine Researcher's Staff, 241);
+	(Rare Lionguard Trident, 827);
+	(Rare Pirate Sledge, 455);
+	(Fine Treasure Hunter's Pistol, 474);
+	(Rare Glyphic Speargun, 393); (Rare Glyphic Speargun, 386);
+	(Fine Ratatosk Pistol, 363);
+	(Rare Lionguard Sword, 412); (Rare Lionguard Sword, 885);
+	(Masterwork Truffle-Baited Speargun, 251);
+	(Rare Krytan Rifle, 491);
+	(Masterwork Shadowed Researcher's Focus, 223);
+	(Masterwork Improved Waterlogged Rifle, 658); (Masterwork Improved Waterlogged Rifle, 658);
+	(Rare Peacemaker's Longbow, 831); (Masterwork Improved Pirate Handblade, 536);
+	(Rare Seraph Scepter, 863); (Rare Seraph Scepter, 863);
+	(Rare Lionguard Pistol, 555); (Rare Lionguard Pistol, 794); (Rare Lionguard Pistol, 794); (Rare Lionguard Pistol, 382);
+	(Rare Adamant Guard Greatsword, 889);
+	(Rare Lionguard Rifle, 485); (Rare Lionguard Rifle, 972);
+	(Rare Bandit Short Bow, 824);
+	(Fine Hunting Pistol, 182);
+	(Masterwork Bandit Longbow, 845);
+	(Rare Pirate Cane, 386); (Rare Wolfborn Greatsword, 894);
+	(Rare Seraph Axe, 912); (Masterwork Bandit Shiv, 775);
+	(Fine Model RX-11 Rifle, 167); (Rare Peacemaker's Mace, 860);
+	(Rare Adamant Guard Gizmo, 764);
+	(Fine Iron Legion Trident, 172);
+	(Rare Verdant Trident, 577);
+	(Fine Mountain Shield, 440);
+	(Rare Warden Longbow, 947);
+	(Fine Brightgrown Longbow, 163); (Rare Pirate Poppet, 353);
+	(Fine Militia Rifle, 191);
+	(Rare Flame Guard, 557); (Rare Glyphic Handblade, 387);
+	(Rare Norn Blade, 591); (Rare Glyphic Brand, 352);
+	(Rare Ebon Vanguard Dagger, 403); (Rare Ebon Vanguard Dagger, 403);
+	(Fine Skritt Poker, 170); (Rare Lionguard Spear, 383);
+	(Rare Lionguard Gizmo, 366); (Rare Krytan Greatsword, 416); (Rare Glyphic Icon, 351); (Rare Glyphic Icon, 351); (Rare Glyphic Icon, 366);
+	(Masterwork Truffle-Baited Trident, 253); (Fine Briar Sword, 566);
+	(Masterwork Hatchet, 289); (Fine Steam Speargun, 726);
+	(Masterwork Bloodsaw Sword, 252);
+	(Rare Peacemaker's Axe, 897);
+	(Rare Peacemaker's Pistol, 881); (Rare Aureate Sconce, 552);
+	(Masterwork Improved Dryground Short Bow, 577);
+	(Rare Pirate Flintlock, 371);
+	(Rare Lionguard Shield, 566); (Rare Lionguard Shield, 789);
+	(Rare Wolfborn Shield, 785); (Rare Bandit Slicer, 815);
+	(Rare Bandit Shiv, 827);
+	(Fine Lost Focus, 171); (Rare Krytan Dagger, 404);
+	(Rare Lionguard Cannon, 833);
+	(Rare Pirate Crescent, 429);
+	(Masterwork Bandit Sunderer, 820);
+
+Bag 1 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Fine Warden's Staff, 172
+	Masterwork Silenced Dagger, 461
+	Fine Aethervolt Spear, 192
+	Rare Glyphic Short Bow, 380
+	Fine Wren Axe, 473
+	Masterwork Bloodsaw Greatsword, 286
+	Masterwork Reinforced Priory Explorer's Scepter, 458
+	Rare Glyphic Trispear, 406
+	Rare Lionguard Mace, 581
+	Fine Exterminator Torch, 170
+	Rare Glyphic Trispear, 406
+	Fine Explorer's Focus, 393
+	Rare Flame Spear, 582
+	Fine Charged Scepter, 178
+	Rare Flame Mace, 619
+	Rare Ebon Vanguard Pistol, 777
+	Fine Charged Scepter, 178
+	Fine Explorer's Focus, 393
+	Fine Trader's Dagger, 166
+	Rare Adamant Guard Short Bow, 836
+	Rare Adamant Guard Trident, 877
+	Rare Lionguard Dagger, 832
+	Masterwork Sentinel's Pistol, 395
+	Rare Steam Trident, 383
+	Rare Bandit Sunderer, 924
+	Rare Seraph Rifle, 915
+	Rare Lionguard Staff, 437
+	Rare Lionguard Hammer, 453
+	Rare Lionguard Staff, 438
+	Rare Lionguard Hammer, 950
+	Rare Shiverpeak Wand, 407
+	Fine Patient Shield, 296
+	Rare Verdant Warhammer, 635
+	Fine Scratch Rifle, 488
+	Fine Bandit Spire, 776
+	Masterwork Perfected Fort Cadence Maul, 541
+	Rare Verdant Scepter, 587
+	Fine Skritt Herder, 187
+	Fine Trusty Pistol, 179
+	Fine Sharptail Short Bow, 153
+	Rare Pirate Billy, 404
+	Rare Lionguard Trident, 592
+	Rare Pirate Sledge, 455
+	Fine Hunter's Short Bow, 218
+	Fine Shield, 176
+	Rare Krytan Pistol, 375
+	Rare Ebon Vanguard Speargun, 394
+	Rare Lionguard Sword, 573
+	Fine Researcher's Scepter, 233
+	Rare Ebon Vanguard Shield, 741
+	Rare Bandit Mallet, 869
+	Masterwork Shadowed Researcher's Focus, 223
+	Rare Bandit Mallet, 869
+	Rare Verdant Torch, 561
+	Fine Opticalium Focusing Stick, 166
+	Rare Krytan Trident, 411
+	Fine Orewood Axe, 159
+	Rare Verdant Greatsword, 635
+	Rare Aureate Highlander Greatsword, 653
+	Basic Dull Dagger, 120
+	Fine Bandit Focus, 663
+	Masterwork Ratatosk Pistol, 380
+	Rare Verdant Pistol, 587
+	Rare Bandit Torch, 757
+	Rare Seraph Torch, 757
+	Rare Pirate Cane, 386
+	Rare Warden Mace, 804
+	Rare Adamant Guard Spear, 814
+	Rare Adamant Guard Gizmo, 764
+	Rare Wolfborn Greatsword, 894
+	Rare Seraph Dagger, 846
+	Rare Glyphic Edge, 390
+	Rare Glyphic Edge, 415
+	Rare Wolfborn Axe, 833
+	Rare Adamant Guard Torch, 737
+	Rare Glyphic Longbow, 404
+	Rare Flame Trident, 604
+	Rare Ebon Vanguard Short Bow, 623
+	Rare Ebon Vanguard Mace, 391
+	Rare Wolfborn Pistol, 894
+	Masterwork Bandit Cleaver, 748
+	Rare Glyphic Axe, 404
+	Masterwork Whisper Model KX Pistol, 469
+	Rare Warden Pistol, 903
+	Rare Glyphic Brand, 352
+	Fine Brackwater Village Focus, 498
+	Rare Shiverpeak Beacon, 369
+	Rare Ebon Vanguard Dagger, 855
+	Rare Ebon Vanguard Dagger, 403
+	Rare Lionguard Gizmo, 348
+	Rare Zweihander, 418
+	Fine Twinspur Pistol, 163
+	Masterwork Bloodsaw Cleaver, 265
+	Masterwork Bloodsaw Cleaver, 265
+	Rare Seraph Hammer, 891
+	Fine Hatchet, 244
+	Fine Briar Sword, 566
+	Fine Ash Legion Shield, 171
+	Fine Briarthorn Dagger, 163
+	Rare Flame Bow, 610
+	Rare Ebon Vanguard Focus, 747
+	Masterwork Bandit Revolver, 733
+	Rare Lionguard Axe, 403
+	Rare Adamant Guard Shield, 761
+	Rare Lionguard Axe, 543
+	Fine Miner's Mace Mark G, 211
+	Rare Lionguard Axe, 817
+	Fine Shipwreck Speargun, 513
+	Fine Shipwreck Speargun, 513
+	Rare Lionguard Greatsword, 439
+	Fine Carving Knife, 195
+	Rare Lionguard Greatsword, 667
+	Rare Lionguard Brand, 381
+	Rare Steam Scepter, 403
+	Fine Hemlocked Sword, 165
+	Rare Glyphic Staff, 438
+	Rare Verdant Shield, 529
+	Rare Warden Speargun, 824
+	Rare Steam Shield, 366
+	Rare Ebon Vanguard Sword, 812
+	Rare Warden Shield, 761
+	Rare Verdant Shield, 564
+	Rare Lionguard Cannon, 379
+	Rare Krytan Dagger, 404
+	Rare Flame Dagger, 597
+
+Bag 1 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Fine Longbow, 166
+	Fine Twinspur Rifle, 194
+	Rare Pirate Cutlass, 392
+	Rare Warden Rifle, 887
+	Rare Steam Shield, 366
+	Fine Black Earth Trident, 704
+	Rare Peacemaker's Staff, 886
+	Fine Patrol Torch, 169
+	Fine Quetzal Trident, 175
+	Rare Pirate Barricade, 339
+	Rare Lionguard Bow, 933
+	Rare Ebon Vanguard Pistol, 592
+	Fine Hunter's Short Bow, 218
+	Rare Glyphic Trispear, 398
+	Fine Togotl Speargun, 236
+	Rare Ebon Vanguard Pistol, 423
+	Rare Flame Mace, 619
+	Rare Glyphic Scepter, 403
+	Fine Wurm Lodge Short Bow, 182
+	Fine Will's Spear, 170
+	Fine Wurm Lodge Longbow, 181
+	Fine Dryground Short Bow, 517
+	Rare Lionguard Short Bow, 595
+	Rare Lionguard Dagger, 832
+	Fine Researcher's Staff, 241
+	Rare Wolfborn Dagger, 869
+	Rare Bandit Sunderer, 924
+	Rare Flame Short Bow, 623
+	Rare Aureate Dirk, 603
+	Rare Verdant Scepter, 612
+	Rare Glyphic Axe, 404
+	Rare Verdant Dagger, 577
+	Rare Lionguard Hammer, 979
+	Rare Lionguard Brand, 546
+	Rare Seraph Longbow, 826
+	Fine Arundon Pistol, 591
+	Fine Twinspur Pistol, 163
+	Rare Seraph Focus, 753
+	Rare Flame Scepter, 562
+	Rare Krytan Speargun, 390
+	Rare Wolfborn Short Bow, 808
+	Fine Twinspur Rifle, 194
+	Rare Aureate Warhammer, 639
+	Fine Bandit Demolisher, 792
+	Fine Trusty Pistol, 179
+	Rare Verdant Spear, 607
+	Fine Dryground Short Bow, 517
+	Rare Lionguard Trident, 408
+	Fine Brightgrown Longbow, 163
+	Fine Wayward Shield, 557
+	Rare Lionguard Shield, 789
+	Masterwork Bandit Musket, 876
+	Rare Lionguard Sword, 412
+	Rare Ebon Vanguard Shield, 525
+	Rare Warden Torch, 788
+	Fine Militia Sword, 164
+	Rare Ebon Vanguard Shield, 741
+	Rare Verdant Spear, 607
+	Rare Lionguard Bow, 895
+	Fine Shipwreck Speargun, 513
+	Fine Order Dagger, 442
+	Rare Shiverpeak Wand, 407
+	Rare Krytan Mace, 396
+	Fine Militia Sword, 164
+	Masterwork Lion's Fang Model II, 231
+	Rare Lionguard Pistol, 555
+	Fine Hylek Crab Skewer, 187
+	Rare Verdant Trident, 577
+	Rare Shiverpeak Spear, 380
+	Rare Lionguard Rifle, 963
+	Rare Steam Axe, 423
+	Fine Hunter's Short Bow, 170
+	Rare Ebon Vanguard Shield, 373
+	Rare Verdant Focus, 542
+	Rare Adamant Guard Spear, 814
+	Fine Iron Legion Trident, 172
+	Rare Seraph Dagger, 846
+	Rare Lionguard Bow, 586
+	Rare Wolfborn Harpoon, 840
+	Rare Pirate Crook, 460
+	Rare Aureate Short Bow, 588
+	Rare Lionguard Rifle, 423
+	Masterwork Bandit Cleaver, 748
+	Rare Bandit Spire, 900
+	Rare Glyphic Axe, 404
+	Fine Model ZIPP01 Scepter, 172
+	Masterwork Caer Brier Ward, 523
+	Rare Ebon Vanguard Shield, 525
+	Masterwork Backwoods Dagger, 209
+	Fine Briar Mace, 545
+	Rare Warden Trident, 849
+	Rare Pirate Needler, 390
+	Rare Glyphic Mace, 411
+	Rare Wolfborn Hammer, 954
+	Fine Twinspur Pistol, 163
+	Rare Ebon Vanguard Staff, 686
+	Rare Peacemaker's Torch, 816
+	Rare Shiverpeak Short Bow, 390
+	Rare Peacemaker's Dagger, 847
+	Fine Ash Legion Shield, 171
+	Fine Shank Dagger, 738
+	Rare Ebon Vanguard Hammer, 623
+	Fine Ash Legion Shield, 171
+	Rare Seraph Longbow, 826
+	Rare Verdant Torch, 561
+	Rare Pirate Flintlock, 371
+	Rare Lionguard Staff, 437
+	Rare Lionguard Axe, 376
+	Fine Shipwreck Speargun, 513
+	Rare Adamant Guard Scepter, 863
+	Rare Flame Rifle, 631
+	Rare Ebon Vanguard Sword, 812
+	Rare Lionguard Pistol, 377
+	Rare Bandit Slicer, 815
+	Rare Lionguard Brand, 731
+	Fine Enhanced Miner's Hammer Mark G, 397
+	Rare Seraph Staff, 897
+	Rare Ebon Vanguard Sword, 812
+	Fine Ash Legion Scout Blade, 194
+	Rare Ebon Vanguard Sword, 413
+	Fine Hylek Crab Skewer, 187
+	Rare Wolfborn Sword, 868
+	Rare Wolfborn Trident, 819
+	Masterwork Fine Hunter's Speargun, 536
+	Fine Bandit Cleaver, 716
+
+Bag 1 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Fine Longbow, 166
+	Rare Seraph Short Bow, 851
+	Rare Krytan Staff, 449
+	Rare Peacemaker's Scepter, 827
+	Rare Lionguard Pistol, 555
+	Rare Lionguard Rifle, 423
+	Masterwork Bandit Short Bow, 778
+	Fine Proton Torch, 146
+	Rare Lionguard Scepter, 863
+	Rare Lionguard Bow, 411
+	Rare Warden Mace, 804
+	Rare Lionguard Hammer, 453
+	Rare Seraph Sword, 820
+	Rare Lionguard Mace, 418
+	Rare Verdant Mace, 590
+	Rare Flame Mace, 619
+	Rare Aureate Speargun, 576
+	Rare Krytan Warhammer, 413
+	Rare Steam Speargun, 410
+	Rare Lionguard Short Bow, 595
+	Rare Lionguard Dagger, 829
+	Rare Pirate Sledge, 455
+	Rare Krytan Scepter, 409
+	Rare Bandit Sunderer, 924
+	Rare Flame Short Bow, 623
+	Rare Flame Blade, 587
+	Rare Lionguard Staff, 653
+	Rare Lionguard Spear, 621
+	Masterwork Razor-Sharp Dagger, 236
+	Rare Peacemaker's Short Bow, 860
+	Rare Ebon Vanguard Axe, 406
+	Rare Flame Greatsword, 631
+	Rare Ebon Vanguard Focus, 523
+	Rare Pirate Harpoon, 397
+	Fine Patient Shield, 296
+	Masterwork Sturdy Dryground Village Longbow, 565
+	Masterwork Perfected Fort Cadence Maul, 528
+	Rare Verdant Scepter, 612
+	Rare Krytan Speargun, 390
+	Rare Peacemaker's Sword, 846
+	Fine Ancient Focus, 298
+	Fine Researcher's Staff, 241
+	Rare Wolfborn Speargun, 855
+	Rare Ebon Vanguard Scepter, 604
+	Rare Aureate Targe, 512
+	Rare Lionguard Greatsword, 446
+	Rare Ebon Vanguard Speargun, 566
+	Fine Bandit Musket, 780
+	Rare Peacemaker's Short Bow, 860
+	Rare Ebon Vanguard Sword, 572
+	Rare Peacemaker's Greatsword, 966
+	Rare Verdant Torch, 517
+	Rare Bandit Mallet, 869
+	Rare Pirate Speargun, 395
+	Rare Krytan Trident, 411
+	Rare Norn Warhammer, 618
+	Rare Lionguard Greatsword, 636
+	Rare Verdant Greatsword, 635
+	Rare Peacemaker's Greatsword, 966
+	Rare Bandit Demolisher, 885
+	Rare Ebon Vanguard Scepter, 805
+	Fine Separatist Pistol, 165
+	Rare Adamant Guard Mace, 889
+	Rare Lionguard Rifle, 963
+	Rare Lionguard Bow, 601
+	Fine Hunter's Trident, 481
+	Rare Wolfborn Focus, 781
+	Rare Norn Shield, 508
+	Rare Ebon Vanguard Dagger, 855
+	Fine Quetzal Speargun, 179
+	Fine Rifle, 238
+	Rare Lionguard Mace, 841
+	Rare Lionguard Hammer, 684
+	Rare Glyphic Pistol, 368
+	Masterwork Lionguard Steel Mace, 297
+	Rare Verdant Rifle, 718
+	Rare Aureate Short Bow, 588
+	Rare Steam Speargun, 410
+	Rare Shiverpeak Talisman, 351
+	Rare Pirate Poppet, 353
+	Rare Bandit Spire, 900
+	Rare Lionguard Short Bow, 595
+	Rare Lionguard Staff, 653
+	Masterwork Enhanced Miner's Hammer Mark G, 242
+	Rare Seraph Sword, 820
+	Fine Togotl Speargun, 236
+	Masterwork Bandit Focus, 687
+	Rare Shiverpeak Short Bow, 390
+	Rare Flame Crusher, 624
+	Rare Glyphic Handblade, 387
+	Rare Glyphic Brand, 362
+	Rare Flame Blade, 587
+	Masterwork Fine Caer Longbow, 517
+	Rare Lionguard Staff, 438
+	Fine Lionguard Iron Mace, 277
+	Basic Shortsword, 116
+	Rare Glyphic Staff, 435
+	Fine Quetzal Speargun, 179
+	Rare Glyphic Staff, 435
+	Fine Patient Shield, 296
+	Rare Norn Pistol, 597
+	Rare Wolfborn Short Bow, 808
+	Fine Briarthorn Dagger, 163
+	Rare Shiverpeak Talisman, 351
+	Rare Verdant Dagger, 577
+	Rare Lionguard Staff, 438
+	Masterwork Perfected Fort Cadence Longblade, 541
+	Rare Pirate Sledge, 455
+	Rare Ebon Vanguard Axe, 564
+	Rare Norn Dagger, 582
+	Fine Sword of Ascalon, 174
+	Rare Pirate Boomstick, 448
+	Fine Wren Axe, 473
+	Rare Adamant Guard Axe, 901
+	Rare Ebon Vanguard Greatsword, 438
+	Fine Bandit Musket, 780
+	Rare Norn Staff, 668
+	Masterwork Shiny Scratch Rifle, 519
+	Fine Lost Focus, 171
+	Rare Verdant Torch, 517
+	Rare Ebon Vanguard Sword, 812
+	Fine Hylek Fishing Pole, 184
+	Rare Lionguard Cannon, 849
+	Fine Experimental Collection Staff, 499
+	Rare Verdant Greatsword, 635
+
+Bag 1 using Open Hashing with my Hashing Function2: 
+	(Rare Pirate Speargun, 395);
+	(Fine Proton Torch, 146); (Fine Proton Torch, 146);
+	(Masterwork Fine Caer Longbow, 517);
+	(Rare Wolfborn Pistol, 894);
+	(Fine Mountain Sword, 477);
+	(Rare Glyphic Handblade, 387);
+	(Fine Sharptail Short Bow, 153);
+	(Rare Ebon Vanguard Speargun, 566);
+	(Rare Verdant Mace, 590); (Rare Verdant Mace, 590);
+	(Rare Verdant Shield, 564); (Rare Verdant Shield, 564);
+	(Masterwork Caer Brier Sword, 572);
+	(Rare Lionguard Trident, 606);
+	(Fine Hunter's Short Bow, 218); (Masterwork Shadowed Researcher's Focus, 223); (Fine Hunter's Short Bow, 170);
+	(Fine Quetzal Trident, 175); (Rare Flame Focus, 539);
+	(Rare Krytan Warhammer, 413);
+	(Rare Ebon Vanguard Longbow, 673);
+	(Rare Aureate Spear, 604);
+	(Rare Ebon Vanguard Trident, 620);
+	(Rare Glyphic Brand, 352);
+	(Fine Wardenhurst Mace, 153); (Masterwork Improved Brackwater Scepter, 606);
+	(Rare Seraph Axe, 912); (Rare Warden Focus, 771);
+	(Rare Flame Rifle, 631); (Rare Ebon Vanguard Hammer, 623);
+	(Rare Norn Focus, 541);
+	(Fine Hunter's Harpoon, 503);
+	(Masterwork Norn Night Light, 217);
+	(Rare Seraph Focus, 753);
+	(Fine Aethervolt Spear, 192); (Fine Aethervolt Spear, 192);
+	(Fine Twitchok's Trusty Pistol, 218); (Rare Glyphic Maul, 456);
+	(Rare Aureate Trident, 616); (Rare Aureate Trident, 616); (Rare Seraph Rifle, 915);
+	(Masterwork Waldo's Special Torch, 205);
+	(Fine Bandit Longbow, 747);
+	(Masterwork Sentinel's Pistol, 401);
+	(Fine Ancient Focus, 298);
+	(Fine Waterlogged Rifle, 586);
+	(Masterwork Truffle-Baited Trident, 253); (Rare Seraph Hammer, 891);
+	(Rare Krytan Shield, 358); (Fine Explorer's Torch, 398);
+	(Rare Lionguard Shield, 363); (Rare Lionguard Shield, 763); (Rare Lionguard Shield, 365);
+	(Masterwork Bandit Demolisher, 881);
+	(Masterwork Lion's Fang Model II, 231);
+	(Fine Norn Night-Light, 184); (Fine Norn Night-Light, 184);
+	(Masterwork Steam Speargun, 773);
+	(Masterwork Jeev's Glossy Scepter, 291);
+	(Fine Treasure Hunter's Pistol, 474);
+	(Rare Shiverpeak Hatchet, 384);
+	(Rare Adamant Guard Greatsword, 889);
+	(Fine Briar Mace, 545);
+	(Fine Rifle, 238);
+	(Masterwork Perfected Fort Cadence Longblade, 541); (Fine Wayward Shield, 557);
+	(Rare Lionguard Brand, 381);
+	(Fine Researcher's Staff, 241); (Fine Enhanced Miner's Hammer Mark G, 397);
+	(Fine Trusty Pistol, 179);
+	(Masterwork OooOoo Chum Trispear, 560); (Masterwork OooOoo Chum Trispear, 560);
+	(Fine Test Associate's Staff Mark I, 620); (Fine Model ZIPP01 Scepter, 172);
+	(Rare Ebon Vanguard Torch, 766);
+	(Rare Warden Sword, 847);
+	(Rare Lionguard Gizmo, 366);
+	(Rare Warden Scepter, 806); (Masterwork Caer Brier Ward, 523); (Masterwork Caer Brier Ward, 523);
+	(Rare Glyphic Rifle, 465);
+	(Rare Steam Scepter, 403); (Masterwork Shield, 201);
+	(Rare Krytan Rifle, 491);
+	(Fine Separatist Pistol, 165); (Fine Separatist Pistol, 165); (Rare Wolfborn Sword, 868); (Rare Glyphic Staff, 435); (Fine Dryground Short Bow, 517);
+	(Masterwork Razor-Sharp Dagger, 236); (Masterwork Foewatch Shield, 347);
+	(Rare Glyphic Short Bow, 380);
+	(Rare Lionguard Spear, 383);
+	(Fine Dryground Village Longbow, 551);
+	(Masterwork Rich Treasure Hunter's Pistol, 509);
+	(Rare Norn Spear, 620);
+	(Masterwork Bloodsaw Sword, 252); (Rare Adamant Guard Cannon, 804);
+	(Rare Lionguard Short Bow, 401); (Fine Miner's Hammer Mark G, 242);
+	(Fine Caer Longbow, 490);
+	(Rare Steam Spear, 379);
+	(Rare Norn Greatsword, 627);
+	(Masterwork Volatile Explorer's Torch, 494);
+	(Rare Bandit Musket, 887);
+	(Rare Warden Torch, 788);
+	(Rare Verdant Rifle, 718); (Fine Ash Legion Shield, 171);
+	(Rare Bandit Longbow, 934);
+	(Fine Lost Focus, 171);
+	(Rare Zweihander, 418); (Rare Warden Shield, 761);
+	(Fine Crusader's Hammer, 541); (Rare Pirate Harpoon, 397); (Fine Crusader's Hammer, 541); (Rare Ebon Vanguard Scepter, 414);
+	(Fine Force-Amplifying Impact Device, 175);
+	(Rare Peacemaker's Torch, 816);
+	(Rare Lionguard Sword, 854);
+	(Rare Ebon Vanguard Mace, 391);
+	(Rare Ebon Vanguard Focus, 747); (Rare Ebon Vanguard Focus, 747);
+	(Rare Bandit Shiv, 827); (Rare Bandit Shiv, 827);
+
+Bag 1 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Lionguard Sword, 412
+	Rare Glyphic Icon, 366
+	Rare Bandit Shiv, 827
+	Masterwork Improved Shipwreck Speargun, 568
+	Rare Pirate Speargun, 395
+	Rare Aureate Speargun, 576
+	Rare Wolfborn Pistol, 894
+	Masterwork Hatchet, 289
+	Rare Adamant Guard Bow, 847
+	Rare Ebon Vanguard Speargun, 394
+	Rare Shiverpeak Maul, 433
+	Fine Jeev's Dusty Focus, 233
+	Fine Jeev's Dusty Focus, 233
+	Fine Pirate Handblade, 500
+	Rare Seraph Mace, 871
+	Rare Lionguard Rifle, 963
+	Rare Lionguard Rifle, 423
+	Fine Quetzal Trident, 175
+	Rare Lionguard Rifle, 423
+	Rare Ebon Vanguard Longbow, 673
+	Rare Ebon Vanguard Longbow, 673
+	Rare Flame Blade, 587
+	Rare Lionguard Rifle, 972
+	Rare Peacemaker's Sword, 846
+	Rare Glyphic Brand, 362
+	Rare Lionguard Staff, 653
+	Rare Adamant Guard Pistol, 834
+	Rare Lionguard Staff, 912
+	Fine Wardenhurst Mace, 153
+	Masterwork Improved Brackwater Scepter, 606
+	Fine Ancient Short Bow, 156
+	Fine Briar Sword, 566
+	Masterwork Patient Sword, 391
+	Fine Hylek Fish Poker, 186
+	Masterwork Jeev's Glossy Staff, 313
+	Masterwork Improved Southwatch Torch, 459
+	Rare Aureate Trident, 616
+	Masterwork Waldo's Special Torch, 205
+	Rare Warden Hammer, 898
+	Fine Briarthorn Dagger, 163
+	Masterwork Patient Shield, 345
+	Rare Krytan Speargun, 390
+	Rare Ebon Vanguard Short Bow, 397
+	Rare Lionguard Shield, 363
+	Rare Adamant Guard Trident, 877
+	Fine Lion's Claw Model I, 214
+	Rare Norn Rifle, 624
+	Fine Champion's Mace, 173
+	Rare Pirate Brazier, 342
+	Fine verdant Axe, 150
+	Masterwork Enhanced Miner's Mace Mark G, 220
+	Masterwork Bandit Sunderer, 820
+	Masterwork Black Earth Trident, 788
+	Rare Shiverpeak Speargun, 399
+	Masterwork Bloodsaw Cleaver, 265
+	Rare Norn Blade, 591
+	Fine Model L-12 Dissection Tool, 170
+	Masterwork Bandit Sunderer, 820
+	Rare Norn Warhammer, 618
+	Fine Bandit Shiv, 716
+	Masterwork Perfected Fort Cadence Longblade, 541
+	Rare Lionguard Brand, 546
+	Rare Lionguard Brand, 503
+	Rare Lionguard Brand, 819
+	Fine Iron Polearm, 822
+	Rare Glyphic Axe, 379
+	Rare Verdant Trident, 577
+	Fine Thunderhead Axe, 449
+	Fine Iron Legion Trident, 172
+	Masterwork Ancient Focus, 322
+	Rare Krytan Axe, 431
+	Rare Shiverpeak Wand, 407
+	Fine Ratatosk Pistol, 363
+	Rare Ebon Vanguard Torch, 367
+	Rare Lionguard Gizmo, 550
+	Rare Aureate Staff, 688
+	Fine Charged Focus, 167
+	Rare Lionguard Gizmo, 348
+	Fine Bandit Spire, 776
+	Fine Hemlocked Sword, 165
+	Rare Pirate Hatchet, 369
+	Fine Researcher's Scepter, 233
+	Rare Glyphic Staff, 435
+	Rare Glyphic Staff, 438
+	Masterwork Foewatch Shield, 347
+	Masterwork Foewatch Shield, 347
+	Rare Lionguard Dagger, 396
+	Rare Lionguard Dagger, 400
+	Rare Warden Trident, 849
+	Rare Lionguard Spear, 383
+	Rare Lionguard Spear, 403
+	Masterwork Terebinth Staff, 256
+	Masterwork Fine Hunter's Speargun, 536
+	Rare Lionguard Hammer, 684
+	Rare Lionguard Short Bow, 595
+	Rare Lionguard Short Bow, 401
+	Rare Lionguard Short Bow, 392
+	Fine Fireman's Axe, 191
+	Fine Crusader's Sword, 467
+	Fine Bandit Focus, 663
+	Rare Pirate Poppet, 353
+	Rare Pirate Trident, 394
+	Rare Lionguard Short Bow, 595
+	Rare Adamant Guard Torch, 737
+	Rare Adamant Guard Torch, 737
+	Rare Steam Mace, 414
+	Rare Shiverpeak Arquebus, 492
+	Rare Ebon Vanguard Dagger, 605
+	Rare Glyphic Mace, 411
+	Rare Glyphic Edge, 415
+	Fine Lionguard-Issue Greatsword, 211
+	Rare Wolfborn Short Bow, 808
+	Rare Peacemaker's Rifle, 1030
+	Fine Hylek Crab Skewer, 187
+	Rare Wolfborn Harpoon, 840
+	Rare Pirate Harpoon, 397
+	Fine Fort Cadence Maul, 496
+	Fine Will's Spear, 170
+	Rare Peacemaker's Torch, 816
+	Rare Lionguard Sword, 414
+	Rare Ebon Vanguard Mace, 813
+	Rare Steamblade, 396
+	Rare Ebon Vanguard Pistol, 592
+	Rare Aureate Pistol, 606
+	Rare Bandit Sunderer, 924
+
+Bag 1 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Rare Wolfborn Rifle, 977
+	Fine Wardenhurst Mace, 153
+	Rare Lionguard Sword, 414
+	Fine Bandit Slicer, 717
+	Masterwork Balanced Crusader's Mace, 489
+	Rare Lionguard Cannon, 394
+	Rare Lionguard Cannon, 394
+	Fine Elmder's Mace, 164
+	Rare Norn Warhammer, 618
+	Rare Pirate Speargun, 395
+	Fine Bandit Mallet, 702
+	Fine Waldo's Torch, 162
+	Rare Krytan Scepter, 409
+	Fine Lionguard Spear, 835
+	Rare Verdant Shield, 564
+	Rare Lionguard Mace, 841
+	Rare Wolfborn Hammer, 954
+	Rare Lionguard Scepter, 621
+	Rare Lionguard Rifle, 963
+	Rare Krytan Bow, 410
+	Masterwork Whisper Model KX Pistol, 469
+	Masterwork Fine Hunter's Speargun, 536
+	Rare Wolfborn Dagger, 869
+	Masterwork Wyld Greatsword, 279
+	Rare Glyphic Brand, 362
+	Masterwork Improved Waterlogged Rifle, 658
+	Masterwork Mountain Shield, 455
+	Fine Wardenhurst Mace, 151
+	Rare Flame Speargun, 598
+	Fine Proton Torch, 146
+	Rare Ebon Vanguard Trident, 837
+	Rare Wolfborn Sword, 868
+	Fine Portal Shatterer, 197
+	Rare Norn Focus, 541
+	Masterwork Truffle-Baited Speargun, 251
+	Fine Iron Legion Speargun, 180
+	Rare Ebon Vanguard Focus, 747
+	Rare Iron Polearm, 834
+	Fine Quetzal Harpoon, 184
+	Fine Researcher's Staff, 241
+	Fine Shipwreck Speargun, 513
+	Fine Bandit Longbow, 747
+	Masterwork Sentinel's Pistol, 395
+	Fine Brackwater Scepter, 531
+	Fine Bandit Sunderer, 797
+	Rare Pirate Cane, 386
+	Rare Seraph Hammer, 891
+	Rare Ebon Vanguard Speargun, 394
+	Masterwork Sturdy Dryground Village Longbow, 565
+	Rare Lionguard Shield, 789
+	Rare Pirate Cane, 386
+	Masterwork Twitchok's Trusty Pistol, 238
+	Masterwork Fine Hunter's Trident, 562
+	Masterwork Fine Hunter's Harpoon, 521
+	Rare Verdant Spear, 607
+	Rare Peacemaker's Axe, 897
+	Rare Pirate Brazier, 342
+	Rare Adamant Guard Hammer, 967
+	Rare Wolfborn Rifle, 977
+	Rare Norn Axe, 548
+	Rare Ebon Vanguard Scepter, 414
+	Masterwork Black Earth Trident, 788
+	Fine Fort Cadence Maul, 496
+	Rare Lionguard Mace, 418
+	Rare Steam Hammer, 425
+	Rare Ebon Vanguard Rifle, 936
+	Masterwork Bandit Short Bow, 778
+	Fine Wurm Lodge Longbow, 181
+	Rare Warden Dagger, 866
+	Rare Adamant Guard Spear, 814
+	Fine Bandit Demolisher, 792
+	Rare Ebon Vanguard Focus, 747
+	Rare Lionguard Bow, 586
+	Rare Lionguard Cannon, 849
+	Rare Ebon Vanguard Rifle, 616
+	Rare Steam Shield, 366
+	Masterwork Shank Dagger, 779
+	Rare Aureate Staff, 688
+	Fine Mace, 199
+	Rare Verdant Torch, 517
+	Fine Ratatosk Pistol, 363
+	Rare Glyphic Rifle, 433
+	Masterwork Silenced Dagger, 461
+	Rare Bandit Short Bow, 824
+	Rare Shiverpeak Spear, 380
+	Rare Glyphic Staff, 435
+	Rare Lionguard Gizmo, 348
+	Rare Bandit Mallet, 869
+	Fine Southwatch Torch, 398
+	Rare Glyphic Rifle, 465
+	Masterwork Jeev's Glossy Focus, 253
+	Masterwork Improved Shipwreck Spear, 593
+	Rare Seraph Sword, 820
+	Rare Krytan Spear, 400
+	Rare Lionguard Dagger, 584
+	Rare Shiverpeak Shield, 344
+	Rare Peacemaker's Short Bow, 860
+	Masterwork Caer Brier Sword, 572
+	Rare Lionguard Axe, 817
+	Rare Lionguard Greatsword, 923
+	Fine Caer Axe, 520
+	Rare Norn Spear, 620
+	Rare Verdant Blade, 614
+	Rare Lionguard Mace, 581
+	Fine Crusader's Sword, 467
+	Fine Bandit Focus, 663
+	Fine Lionguard-Issue Sword, 186
+	Rare Lionguard Axe, 403
+	Fine Whisper Model K Pistol, 446
+	Rare Wolfborn Short Bow, 808
+	Rare Glyphic Edge, 415
+	Fine Windgrown Short Bow, 158
+	Rare Shiverpeak Beacon, 369
+	Fine Hylek Crab Skewer, 187
+	Rare Ebon Vanguard Short Bow, 847
+	Masterwork Magi's Soft Wood Scepter, 405
+	Masterwork Reinforced Priory Explorer's Scepter, 458
+	Fine Ancient Longbow, 173
+	Fine Will's Spear, 170
+	Fine Fort Cadence Maul, 496
+	Fine Shield of Ascalon, 173
+	Rare Peacemaker's Short Bow, 860
+	Fine Wren Axe, 473
+	Masterwork Magi's Soft Wood Scepter, 405
+	Rare Lionguard Sword, 885
+
+Bag 1 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Bandit Torch, 757
+	Masterwork Bandit Focus, 687
+	Rare Wolfborn Rifle, 977
+	Rare Glyphic Pistol, 368
+	Fine Model ZIPP01 Scepter, 172
+	Rare Lionguard Rifle, 963
+	Fine Ash Legion Shield, 171
+	Masterwork Improved Pirate Handblade, 536
+	Rare Wolfborn Staff, 974
+	Rare Lionguard Rifle, 963
+	Rare Lionguard Cannon, 379
+	Rare Flame Dagger, 597
+	Rare Glyphic Handblade, 387
+	Fine Sharptail Short Bow, 153
+	Rare Glyphic Ward, 374
+	Rare Verdant Shield, 564
+	Fine Krytan Dagger, 198
+	Fine Mace, 199
+	Rare Lionguard Trident, 394
+	Rare Wolfborn Rifle, 977
+	Rare Krytan Bow, 410
+	Rare Krytan Warhammer, 413
+	Rare Aureate Spear, 604
+	Rare Lionguard Hammer, 453
+	Masterwork Mountain Shield, 455
+	Rare Lionguard Staff, 912
+	Rare Lionguard Rifle, 643
+	Rare Wolfborn Axe, 833
+	Rare Bandit Spire, 900
+	Fine Crusader's Mace, 443
+	Fine Ancient Short Bow, 156
+	Rare Lionguard Dagger, 396
+	Rare Ebon Vanguard Hammer, 905
+	Masterwork Truffle-Baited Speargun, 251
+	Fine Shipwreck Spear, 544
+	Fine Seraph Spear, 825
+	Rare Lionguard Trident, 394
+	Fine Razor-Sharp Dagger, 210
+	Rare Verdant Speargun, 611
+	Masterwork Whisper Model KX Pistol, 469
+	Rare Glyphic Maul, 456
+	Rare Seraph Rifle, 915
+	Rare Glyphic Brand, 362
+	Fine Force-Amplifying Impact Device, 175
+	Rare Krytan Speargun, 390
+	Masterwork Truffle-Baited Harpoon, 240
+	Rare Ebon Vanguard Short Bow, 397
+	Fine Orewood Axe, 159
+	Fine Hunter's Speargun, 481
+	Rare Peacemaker's Longbow, 831
+	Rare Peacemaker's Trident, 883
+	Rare Norn Pistol, 597
+	Rare Aureate Warhammer, 639
+	Rare Glyphic Maul, 456
+	Rare Pirate Brazier, 342
+	Masterwork Steam Speargun, 773
+	Rare Shiverpeak Trident, 411
+	Fine Hunting Pistol, 182
+	Rare Lionguard Bow, 933
+	Fine Hatchet, 162
+	Rare Flame Greatsword, 631
+	Fine Jeev's Dusty Focus, 233
+	Rare Krytan Mace, 396
+	Masterwork Charr Meatoberfest Chalice, 216
+	Fine Brightgrown Longbow, 163
+	Rare Glyphic Axe, 379
+	Fine Bandit Ward, 642
+	Rare Lionguard Bow, 895
+	Rare Glyphic Brand, 362
+	Fine Iron Legion Trident, 172
+	Rare Glyphic Spear, 385
+	Masterwork Perfected Fort Cadence Maul, 541
+	Rare Verdant Torch, 561
+	Rare Verdant Dagger, 577
+	Fine Bandit Cleaver, 716
+	Fine Terebinth Staff, 219
+	Fine Potatlan's Axe, 477
+	Fine Valoric Sword, 645
+	Rare Lionguard Dagger, 400
+	Rare Krytan Focus, 367
+	Fine Southwatch Torch, 398
+	Fine Patient Shield, 296
+	Rare Norn Pistol, 597
+	Fine Hemlocked Sword, 165
+	Rare Peacemaker's Pistol, 881
+	Rare Pirate Cutlass, 392
+	Rare Seraph Sword, 820
+	Rare Peacemaker's Shield, 780
+	Fine Crusader's Sword, 467
+	Rare Wolfborn Axe, 833
+	Rare Pirate Poppet, 353
+	Rare Glyphic Icon, 351
+	Rare Lionguard Dagger, 584
+	Rare Lionguard Trident, 827
+	Rare Warden Trident, 849
+	Masterwork Terebinth Staff, 256
+	Rare Verdant Axe, 549
+	Rare Lionguard Hammer, 950
+	Fine Caer Axe, 520
+	Fine Soundless Hammer, 173
+	Masterwork Fine Hunter's Trident, 562
+	Rare Lionguard Short Bow, 807
+	Rare Pirate Poppet, 353
+	Masterwork Bloodsaw Greatsword, 286
+	Rare Glyphic Staff, 435
+	Rare Glyphic Axe, 404
+	Masterwork Volatile Explorer's Torch, 494
+	Rare Lionguard Axe, 543
+	Basic Pistol, 113
+	Fine Quetzal Trident, 175
+	Rare Wolfborn Short Bow, 808
+	Fine Windgrown Short Bow, 158
+	Rare Verdant Rifle, 636
+	Fine Hylek Crab Skewer, 187
+	Fine Brightgrown Longbow, 163
+	Rare Glyphic Axe, 404
+	Rare Lionguard Short Bow, 807
+	Rare Seraph Torch, 757
+	Rare Lionguard Bow, 933
+	Rare Pirate Harpoon, 397
+	Fine Fort Cadence Maul, 496
+	Fine Force-Amplifying Impact Device, 175
+	Rare Ebon Vanguard Focus, 355
+	Rare Pirate Hatchet, 369
+	Rare Lionguard Scepter, 621
+
+Bag 1 using Open Hashing with my Hashing Function3: 
+	(Fine Thunderhead Axe, 449); (Fine Bandit Demolisher, 792); (Fine Bandit Demolisher, 792);
+	(Rare Krytan Warhammer, 413); (Fine Researcher's Scepter, 233);
+	(Rare Verdant Bow, 597);
+	(Fine Lionguard Spear, 835); (Rare Glyphic Icon, 351); (Rare Glyphic Icon, 351); (Rare Ebon Vanguard Shield, 373);
+	(Rare Lionguard Axe, 543); (Rare Lionguard Axe, 780);
+	(Masterwork Magi's Soft Wood Scepter, 405);
+	(Rare Peacemaker's Longbow, 831);
+	(Rare Ebon Vanguard Axe, 564);
+	(Masterwork Improved Shipwreck Speargun, 568);
+	(Rare Lionguard Dagger, 584);
+	(Fine Separatist Rifle, 190); (Fine Separatist Rifle, 190); (Rare Steam Bow, 388); (Fine Bandit Short Bow, 718); (Fine Bandit Short Bow, 718);
+	(Rare Krytan Speargun, 390);
+	(Rare Seraph Pistol, 857);
+	(Rare Shiverpeak Shield, 344);
+	(Rare Lionguard Hammer, 979);
+	(Rare Flame Greatsword, 631); (Fine Trident, 176); (Rare Flame Greatsword, 631);
+	(Rare Ebon Vanguard Scepter, 805);
+	(Rare Steam Rifle, 449); (Masterwork Thunderhead Axe, 728);
+	(Fine Model ZIPP01 Scepter, 172); (Rare Verdant Mace, 579);
+	(Fine Charged Focus, 167);
+	(Fine Dryground Short Bow, 517);
+	(Rare Lionguard Bow, 390);
+	(Rare Ebon Vanguard Rifle, 473); (Fine Quetzal Harpoon, 184);
+	(Fine Speargun, 171);
+	(Masterwork OooOoo Chum Trispear, 560); (Masterwork OooOoo Chum Trispear, 560);
+	(Fine Arundon Pistol, 591);
+	(Rare Verdant Rifle, 718);
+	(Fine Iron Polearm, 822);
+	(Rare Ebon Vanguard Dagger, 605);
+	(Rare Norn Spear, 620);
+	(Rare Lionguard Short Bow, 392);
+	(Fine Scratch Rifle, 488); (Masterwork Jeev's Glossy Scepter, 291);
+	(Rare Lionguard Spear, 403); (Rare Zweihander, 418); (Rare Zweihander, 418);
+	(Rare Lionguard Gizmo, 550);
+	(Masterwork Wyld Greatsword, 279); (Rare Adamant Guard Scepter, 863);
+	(Rare Shiverpeak Beacon, 369); (Rare Warden Dagger, 866); (Rare Shiverpeak Beacon, 369);
+	(Rare Bandit Short Bow, 824);
+	(Rare Krytan Greatsword, 416); (Rare Krytan Greatsword, 416);
+	(Masterwork Bandit Baton, 786);
+	(Fine Ash Legion Shield, 171);
+	(Rare Lionguard Greatsword, 439); (Rare Lionguard Greatsword, 667); (Rare Lionguard Greatsword, 667);
+	(Rare Ebon Vanguard Trident, 398); (Fine Skritt Herder, 187); (Fine Bandit Sunderer, 797);
+	(Rare Bandit Revolver, 808); (Rare Bandit Revolver, 808);
+	(Masterwork Patient Shield, 345);
+	(Rare Lionguard Brand, 546); (Rare Lionguard Brand, 376);
+	(Rare Pirate Sledge, 455);
+	(Masterwork Sentinel's Pistol, 401);
+	(Fine Briar Sword, 566);
+	(Rare Peacemaker's Dagger, 847);
+	(Rare Pirate Trident, 394); (Rare Pirate Trident, 394);
+	(Rare Aureate Rinblade, 620); (Rare Ebon Vanguard Torch, 576); (Rare Ebon Vanguard Torch, 367);
+	(Masterwork Bandit Musket, 876);
+	(Rare Pirate Crook, 460); (Masterwork Bandit Sunderer, 820);
+	(Masterwork Sturdy Dryground Village Longbow, 565);
+	(Fine Charged Scepter, 175);
+	(Rare Glyphic Scepter, 403); (Rare Lionguard Scepter, 579);
+	(Masterwork Test Associate's Staff Mark II, 635);
+	(Rare Shiverpeak Maul, 433); (Rare Aureate Spear, 604); (Rare Shiverpeak Maul, 433);
+	(Fine Brackwater Village Focus, 498);
+	(Rare Steam Axe, 423);
+	(Rare Aureate Warhammer, 639);
+	(Masterwork Razor-Sharp Dagger, 236);
+	(Rare Lionguard Shield, 365); (Rare Lionguard Shield, 789);
+	(Rare Adamant Guard Hammer, 967);
+	(Rare Flame Short Bow, 623);
+	(Rare Warden Focus, 771);
+	(Rare Bandit Sunderer, 924);
+	(Rare Krytan Shield, 358); (Rare Steam Pistol, 426); (Rare Krytan Shield, 358); (Rare Steam Pistol, 426);
+	(Rare Norn Trident, 584);
+	(Rare Lionguard Staff, 437);
+	(Fine Hunter's Short Bow, 218);
+	(Rare Einhander, 393); (Rare Verdant Shield, 564);
+	(Rare Peacemaker's Speargun, 832); (Rare Glyphic Brand, 352);
+	(Rare Ebon Vanguard Greatsword, 438);
+	(Masterwork Whisper Model KX Pistol, 469); (Rare Verdant Speargun, 611); (Rare Ebon Vanguard Focus, 355);
+	(Fine Test Associate's Staff Mark I, 620);
+	(Rare Verdant Warhammer, 655);
+	(Fine Hatchet, 244);
+	(Rare Peacemaker's Sword, 846); (Rare Peacemaker's Sword, 846);
+
+Bag 1 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Basic Pistol, 113
+	Rare Norn Rifle, 624
+	Rare Aureate Speargun, 576
+	Fine Fisher's Shield, 158
+	Rare Lionguard Sword, 414
+	Rare Ebon Vanguard Short Bow, 623
+	Rare Flame Blade, 587
+	Rare Lionguard Sword, 573
+	Rare Lionguard Sword, 573
+	Masterwork Magi's Soft Wood Scepter, 405
+	Rare Lionguard Mace, 841
+	Fine Iron Legion Speargun, 180
+	Rare Ebon Vanguard Axe, 406
+	Fine Windgrown Short Bow, 158
+	Rare Wolfborn Rifle, 977
+	Rare Glyphic Mace, 379
+	Rare Glyphic Pistol, 368
+	Fine Fisher's Shield, 158
+	Rare Lionguard Trident, 827
+	Rare Lionguard Mace, 566
+	Rare Glyphic Ward, 374
+	Rare Lionguard Axe, 543
+	Rare Lionguard Axe, 403
+	Rare Krytan Speargun, 390
+	Rare Ebon Vanguard Short Bow, 397
+	Rare Steam Speargun, 880
+	Rare Ebon Vanguard Axe, 406
+	Masterwork Bandit Demolisher, 881
+	Rare Lionguard Sword, 590
+	Masterwork Bandit Longbow, 845
+	Rare Lionguard Rifle, 643
+	Rare Warden Rifle, 887
+	Rare Seraph Axe, 912
+	Rare Glyphic Longbow, 404
+	Rare Verdant Dagger, 577
+	Rare Glyphic Longbow, 404
+	Rare Steam Shield, 366
+	Masterwork Steam Speargun, 773
+	Fine Wren Axe, 473
+	Fine Model RX-11 Rifle, 167
+	Fine Model ZIPP01 Scepter, 172
+	Rare Seraph Mace, 871
+	Rare Flame Dagger, 597
+	Rare Lionguard Bow, 586
+	Rare Lionguard Bow, 601
+	Rare Krytan Staff, 449
+	Fine Model ZIPP01 Focus, 163
+	Masterwork Rifle, 239
+	Fine Iron Polearm, 822
+	Fine Seraph Spear, 825
+	Masterwork Jeev's Glossy Scepter, 291
+	Rare Zweihander, 418
+	Rare Glyphic Handblade, 407
+	Rare Glyphic Handblade, 387
+	Masterwork Improved Waterlogged Rifle, 658
+	Rare Lionguard Pistol, 799
+	Rare Aureate Musket, 666
+	Rare Adamant Guard Scepter, 863
+	Masterwork Fine Hunter's Speargun, 536
+	Fine Orewood Axe, 159
+	Rare Lionguard Pistol, 629
+	Fine Black Earth Trident, 704
+	Rare Warden Trident, 849
+	Fine Opticalium Focusing Stick, 166
+	Rare Adamant Guard Rifle, 923
+	Rare Lionguard Greatsword, 439
+	Rare Aureate Longbow, 658
+	Rare Lionguard Greatsword, 667
+	Rare Seraph Shield, 768
+	Rare Lionguard Greatsword, 918
+	Rare Flame Scepter, 562
+	Rare Wolfborn Harpoon, 840
+	Rare Adamant Guard Cannon, 804
+	Rare Seraph Rifle, 915
+	Rare Steam Dagger, 389
+	Rare Lionguard Brand, 381
+	Fine Hunting Pistol, 182
+	Rare Verdant Spear, 611
+	Fine Hunting Pistol, 182
+	Fine Sharptail Short Bow, 153
+	Rare Verdant Spear, 611
+	Rare Adamant Guard Axe, 901
+	Rare Steam Hammer, 425
+	Rare Steam Spear, 379
+	Fine Skale-Fin Focus, 171
+	Rare Pirate Trident, 394
+	Fine Hylek Crab Skewer, 187
+	Masterwork Wayward Shield, 609
+	Rare Adamant Guard Gizmo, 764
+	Masterwork Truffle-Baited Speargun, 251
+	Fine Wurm Lodge Short Bow, 182
+	Fine Charged Scepter, 178
+	Rare Lionguard Scepter, 409
+	Rare Glyphic Spear, 402
+	Rare Peacemaker's Focus, 746
+	Masterwork Shadowed Researcher's Staff, 279
+	Rare Steam Axe, 423
+	Fine Lion's Fang Model I, 213
+	Rare Norn Focus, 541
+	Masterwork Razor-Sharp Dagger, 236
+	Masterwork Balanced Crusader's Hammer, 550
+	Rare Lionguard Shield, 520
+	Rare Adamant Guard Spear, 814
+	Rare Adamant Guard Spear, 814
+	Rare Wolfborn Dagger, 869
+	Rare Verdant Axe, 549
+	Rare Verdant Axe, 567
+	Rare Norn Trident, 584
+	Fine Shield of Ascalon, 173
+	Rare Pirate Poppet, 353
+	Rare Lionguard Cannon, 833
+	Rare Shiverpeak Trident, 411
+	Rare Shiverpeak Trident, 411
+	Fine Brightgrown Longbow, 163
+	Fine Jeev's Dusty Scepter, 270
+	Rare Verdant Shield, 564
+	Rare Peacemaker's Speargun, 832
+	Rare Verdant Staff, 631
+	Rare Shiverpeak Wand, 407
+	Rare Shiverpeak Talisman, 351
+	Fine Crusader's Mace, 443
+	Rare Verdant Shield, 564
+	Rare Peacemaker's Pistol, 881
+	Rare Verdant Shield, 529
+	Fine Hatchet, 234
+
+Bag 1 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Basic Pistol, 113
+	Masterwork Bandit Spire, 833
+	Rare Norn Rifle, 624
+	Rare Aureate Speargun, 576
+	Masterwork Balanced Crusader's Mace, 489
+	Rare Glyphic Mace, 411
+	Rare Glyphic Icon, 366
+	Rare Lionguard Axe, 541
+	Rare Lionguard Mace, 581
+	Rare Ebon Vanguard Axe, 564
+	Fine Windgrown Short Bow, 158
+	Fine Ancient Short Bow, 156
+	Rare Bandit Mallet, 869
+	Fine Separatist Rifle, 190
+	Rare Pirate Slayer, 459
+	Rare Adamant Guard Spear, 814
+	Masterwork Fine Caer Longbow, 517
+	Masterwork Norn Night Light, 217
+	Masterwork Rich Treasure Hunter's Pistol, 509
+	Rare Lionguard Staff, 629
+	Rare Lionguard Hammer, 950
+	Rare Warden Scepter, 806
+	Fine Exterminator Torch, 170
+	Rare Lionguard Rifle, 643
+	Rare Adamant Guard Short Bow, 836
+	Fine Lionguard Spear, 835
+	Rare Steam Shield, 366
+	Rare Wolfborn Speargun, 855
+	Masterwork Hunter's Short Bow, 243
+	Rare Aureate Staff, 688
+	Rare Lionguard Bow, 933
+	Rare Ebon Vanguard Speargun, 830
+	Rare Warden Spear, 815
+	Rare Pirate Harpoon, 397
+	Rare Steam Spear, 379
+	Fine Dryground Short Bow, 517
+	Rare Peacemaker's Mace, 860
+	Rare Wolfborn Pistol, 894
+	Masterwork Rifle, 239
+	Rare Aureate Trident, 616
+	Rare Ebon Vanguard Dagger, 605
+	Rare Lionguard Trident, 864
+	Fine Lionguard Spear, 835
+	Rare Lionguard Short Bow, 877
+	Fine Scratch Rifle, 488
+	Rare Lionguard Spear, 403
+	Rare Lionguard Gizmo, 348
+	Masterwork Norn Night Light, 217
+	Masterwork Bandit Revolver, 733
+	Masterwork Improved Waterlogged Rifle, 658
+	Rare Lionguard Pistol, 629
+	Masterwork Bandit Slicer, 778
+	Rare Lionguard Staff, 912
+	Rare Bandit Sunderer, 924
+	Rare Shiverpeak Spear, 380
+	Rare Steam Trident, 383
+	Masterwork Bandit Baton, 786
+	Fine Razor-Sharp Dagger, 210
+	Fine Ash Legion Shield, 184
+	Rare Glyphic Edge, 415
+	Fine Briarthorn Dagger, 163
+	Rare Warden Sword, 847
+	Masterwork Test Associate's Staff Mark II, 635
+	Rare Flame Pistol, 631
+	Rare Ebon Vanguard Sword, 812
+	Rare Krytan Rifle, 491
+	Rare Verdant Torch, 561
+	Fine Hunting Pistol, 182
+	Rare Verdant Spear, 607
+	Rare Aureate Musket, 666
+	Rare Lionguard Dagger, 829
+	Fine Razor-Sharp Dagger, 210
+	Rare Ebon Vanguard Axe, 406
+	Fine Briar Ward, 497
+	Rare Lionguard Mace, 841
+	Fine Bandit Spire, 776
+	Fine Standard Order Short Bow, 420
+	Fine Priory Explorer's Scepter, 440
+	Rare Peacemaker's Dagger, 847
+	Masterwork Arundon Pistol, 631
+	Fine Whisper Model K Pistol, 446
+	Rare Ebon Vanguard Torch, 367
+	Masterwork Perfected Fort Cadence Maul, 528
+	Masterwork Bandit Musket, 876
+	Rare Bandit Mallet, 869
+	Rare Ebon Vanguard Trident, 398
+	Rare Peacemaker's Hammer, 911
+	Rare Ebon Vanguard Pistol, 423
+	Rare Adamant Guard Gizmo, 764
+	Masterwork Sturdy Dryground Village Longbow, 565
+	Rare Ebon Vanguard Shield, 741
+	Rare Warden Spear, 815
+	Fine Wurm Lodge Short Bow, 182
+	Masterwork Shield, 201
+	Rare Aureate Spear, 604
+	Fine Experimental Collection Staff, 499
+	Fine Hunting Pistol, 182
+	Fine Iron Legion Harpoon, 179
+	Rare Bandit Shiv, 827
+	Masterwork Ash Legion Shield, 208
+	Rare Verdant Pistol, 587
+	Fine Separatist Rifle, 190
+	Masterwork Valoric Sword, 691
+	Masterwork Bandit Ward, 682
+	Rare Adamant Guard Hammer, 967
+	Rare Shiverpeak Staff, 443
+	Rare Flame Short Bow, 623
+	Rare Warden Focus, 771
+	Rare Bandit Sunderer, 924
+	Rare Steam Shield, 366
+	Fine Ash Legion Shield, 184
+	Rare Steamblade, 396
+	Rare Lionguard Staff, 885
+	Rare Lionguard Cannon, 849
+	Fine Portal Shatterer, 197
+	Rare Adamant Guard Spear, 814
+	Rare Ebon Vanguard Sword, 812
+	Rare Glyphic Brand, 352
+	Rare Flame Bow, 610
+	Fine Hatchet, 234
+	Masterwork Improved Southwatch Torch, 459
+	Masterwork Jeev's Glossy Staff, 313
+	Fine Hatchet, 234
+	Masterwork Sturdy Dryground Village Longbow, 565
+	Masterwork Hatchet, 289
+
+Bag 1 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Fine Explorer's Focus, 393
+	Rare Seraph Focus, 753
+	Rare Glyphic Trispear, 406
+	Rare Flame Cleaver, 618
+	Fine Thunderhead Axe, 449
+	Fine Portal Shatterer, 197
+	Fine Skritt Poker, 170
+	Rare Flame Carrier, 503
+	Rare Lionguard Trident, 408
+	Rare Glyphic Ward, 374
+	Rare Peacemaker's Longbow, 831
+	Rare Glyphic Mace, 411
+	Masterwork Bloodsaw Greatsword, 286
+	Rare Peacemaker's Short Bow, 860
+	Rare Aureate Targe, 512
+	Fine Skale-Smacking Stick, 199
+	Rare Lionguard Gizmo, 366
+	Masterwork Fine Caer Longbow, 517
+	Rare Aureate Targe, 512
+	Fine Wardenhurst Mace, 153
+	Rare Lionguard Pistol, 794
+	Rare Bandit Longbow, 934
+	Rare Flame Focus, 539
+	Rare Bandit Longbow, 934
+	Rare Lionguard Rifle, 972
+	Rare Seraph Staff, 897
+	Fine Longbow, 166
+	Fine Dryground Village Longbow, 551
+	Rare Lionguard Rifle, 972
+	Rare Glyphic Longbow, 404
+	Rare Aureate Dirk, 603
+	Masterwork Truffle-Baited Trident, 253
+	Rare Verdant Mace, 590
+	Rare Seraph Mace, 871
+	Rare Lionguard Bow, 601
+	Rare Wolfborn Pistol, 894
+	Rare Ebon Vanguard Rifle, 616
+	Rare Adamant Guard Axe, 901
+	Fine Mountain Shield, 440
+	Rare Seraph Focus, 753
+	Rare Krytan Sword, 403
+	Rare Verdant Rifle, 636
+	Fine Iron Legion Harpoon, 179
+	Rare Aureate Trident, 616
+	Rare Krytan Trident, 411
+	Rare Verdant Rifle, 718
+	Rare Warden Mace, 804
+	Rare Lionguard Short Bow, 401
+	Rare Lionguard Spear, 621
+	Rare Peacemaker's Hammer, 911
+	Rare Glyphic Handblade, 407
+	Masterwork Improved Waterlogged Rifle, 658
+	Fine Treasure Hunter's Pistol, 474
+	Rare Glyphic Rifle, 465
+	Rare Shiverpeak Beacon, 369
+	Fine Elmder's Mace, 164
+	Rare Flame Focus, 539
+	Fine Orewood Axe, 159
+	Masterwork Bandit Slicer, 778
+	Fine Opticalium Focusing Stick, 166
+	Fine Ash Legion Shield, 184
+	Rare Lionguard Greatsword, 446
+	Fine Skritt Herder, 187
+	Rare Aureate Highlander Greatsword, 653
+	Rare Bandit Revolver, 808
+	Rare Flame Scepter, 562
+	Rare Glyphic Longblade, 454
+	Fine Bandit Sunderer, 797
+	Masterwork Arundon Pistol, 631
+	Rare Norn Scepter, 598
+	Rare Lionguard Brand, 819
+	Rare Verdant Spear, 611
+	Fine Ash Legion Scout Blade, 194
+	Rare Krytan Shield, 358
+	Rare Lionguard Brand, 546
+	Fine Explorer's Torch, 398
+	Rare Glyphic Axe, 379
+	Rare Warden Speargun, 824
+	Fine Darkvine Greatsword, 207
+	Rare Peacemaker's Dagger, 847
+	Rare Pirate Trident, 394
+	Rare Glyphic Axe, 379
+	Masterwork Perfected Fort Cadence Maul, 541
+	Rare Lionguard Axe, 403
+	Masterwork Enhanced Miner's Hammer Mark G, 242
+	Rare Iron Polearm, 834
+	Rare Ebon Vanguard Pistol, 777
+	Fine Peacemaker's Spear, 805
+	Masterwork Improved Shipwreck Spear, 593
+	Rare Peacemaker's Axe, 897
+	Fine Wardenhurst Mace, 153
+	Masterwork Truffle-Baited Speargun, 251
+	Masterwork Caer Brier Sword, 572
+	Rare Lionguard Trident, 394
+	Rare Norn Focus, 541
+	Masterwork Caer Brier Sword, 572
+	Fine Lion's Claw Model I, 214
+	Rare Lionguard Shield, 763
+	Rare Lionguard Gizmo, 754
+	Rare Flame Rifle, 631
+	Rare Pirate Boomstick, 448
+	Fine Steam Speargun, 726
+	Fine Historian's Staff, 205
+	Rare Lionguard Shield, 763
+	Rare Verdant Axe, 549
+	Masterwork Valoric Sword, 691
+	Rare Steam Pistol, 426
+	Rare Norn Trident, 584
+	Masterwork Bandit Spire, 833
+	Rare Lionguard Staff, 885
+	Rare Bandit Shiv, 827
+	Rare Krytan Shield, 358
+	Fine Standard Order Short Bow, 420
+	Rare Glyphic Edge, 415
+	Fine Militia Rifle, 191
+	Rare Shiverpeak Wand, 407
+	Rare Verdant Staff, 677
+	Rare Warden Staff, 930
+	Rare Shiverpeak Talisman, 351
+	Fine Aethervolt Spear, 192
+	Masterwork Shadowed Researcher's Focus, 223
+	Masterwork Fine Caer Axe, 528
+	Fine Hatchet, 162
+	Fine Peacemaker's Spear, 805
+	Rare Peacemaker's Sword, 846
+
+
+Searching for Rare Ebon Vanguard Scepter... 
+Found in (bag 1 slots 104. 71,  Strengths: 805, 604) (bag 1 slots 189,  Strengths: 414) (bag 1 slots 92,  Strengths: 414) (bag 1 slots 35,  Strengths: 805)
+
+Searching for Fine Steam Speargun... 
+Found in (bag 1 slots 159,  Strengths: 726) (bag 1 slots 162,  Strengths: 726)
+
+Searching for Masterwork Balanced Crusader's Hammer... 
+Found in (bag 1 slots 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158. 158,  Strengths: 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550)
+
+Searching for Masterwork Improved Brackwater Village Focus... 
+Found in
+
+Searching for Rare Warden Staff... 
+Found in (bag 1 slots 182,  Strengths: 930)
+
+
+Total average
+84180 11260 110260 2420 2460 10380 1120 960 2220 9140 1880 2300 

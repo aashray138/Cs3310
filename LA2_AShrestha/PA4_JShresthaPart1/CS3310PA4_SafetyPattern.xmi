@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ARM:Argumentation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ARM="http://schema.omg.org/SACM/1.0/Argumentation" xmi:id="_uoId8OMnEem_DM-uDcqpFg" id="CS3310PA4_SafetyPattern" description="" content="">
+  <argumentElement xsi:type="ARM:Claim" xmi:id="_uoId8eMnEem_DM-uDcqpFg" id="G1" description="" content="Program1 has been plausibly patched" assumed="false" toBeSupported="false"/>
+  <argumentElement xsi:type="ARM:Claim" xmi:id="_uoId8uMnEem_DM-uDcqpFg" id="G2" description="" content="patch {P} for Program1 has passed all test cases" assumed="false" toBeSupported="false"/>
+  <argumentElement xsi:type="ARM:Claim" xmi:id="_uoId8-MnEem_DM-uDcqpFg" id="G3" description="" content="test case {t} has been passed" assumed="false" toBeSupported="false"/>
+  <argumentElement xsi:type="ARM:InformationElement" xmi:id="_uoId9OMnEem_DM-uDcqpFg" id="Sn1" description="" content="Open project directory to Program1 and find results of test oracle, stating {t} has been passed" url=""/>
+  <argumentElement xsi:type="ARM:InformationElement" xmi:id="_uoId9eMnEem_DM-uDcqpFg" id="C1" description="" content="{P} is an applied autorepair patch" url=""/>
+  <argumentElement xsi:type="ARM:InformationElement" xmi:id="_uoId9uMnEem_DM-uDcqpFg" id="C2" description="" content="{t} is a test case applied on the program attempted to be repaired" url=""/>
+  <argumentElement xsi:type="ARM:ArgumentReasoning" xmi:id="_uoId9-MnEem_DM-uDcqpFg" id="S1" description="" content="Consider each test case applied to {P}" describedInference="_uoId--MnEem_DM-uDcqpFg"/>
+  <argumentElement xsi:type="ARM:AssertedInference" xmi:id="_uoId-OMnEem_DM-uDcqpFg" id="" description="" content="" source="_uoId8uMnEem_DM-uDcqpFg" target="_uoId8eMnEem_DM-uDcqpFg"/>
+  <argumentElement xsi:type="ARM:AssertedEvidence" xmi:id="_uoId-eMnEem_DM-uDcqpFg" id="" description="" content="" source="_uoId9OMnEem_DM-uDcqpFg" target="_uoId8-MnEem_DM-uDcqpFg"/>
+  <argumentElement xsi:type="ARM:AssertedContext" xmi:id="_uoId-uMnEem_DM-uDcqpFg" id="" description="" content="" source="_uoId9uMnEem_DM-uDcqpFg" target="_uoId8-MnEem_DM-uDcqpFg"/>
+  <argumentElement xsi:type="ARM:AssertedInference" xmi:id="_uoId--MnEem_DM-uDcqpFg" id="" description="" content="" source="_uoId8-MnEem_DM-uDcqpFg" target="_uoId8uMnEem_DM-uDcqpFg">
+    <taggedValue xmi:id="_uoId_OMnEem_DM-uDcqpFg" key="Multiplicity" value="Many"/>
+  </argumentElement>
+  <argumentElement xsi:type="ARM:AssertedContext" xmi:id="_uoId_eMnEem_DM-uDcqpFg" id="" description="" content="" source="_uoId9eMnEem_DM-uDcqpFg" target="_uoId8uMnEem_DM-uDcqpFg"/>
+</ARM:Argumentation>

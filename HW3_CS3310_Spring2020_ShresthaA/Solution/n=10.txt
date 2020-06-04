@@ -1,0 +1,981 @@
+
+n=10
+Bag 1 using Open Hashing with my Hashing Function1: 
+	(Rare Peacemaker's Greatsword, 926); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Peacemaker's Scepter, 829); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Steam Short Bow, 384); (Masterwork Silenced Dagger, 479); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Warden Short Bow, 861); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Skale Zapper, 195); (Rare Verdant Speargun, 566); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 1 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Fine Longbow, 191
+	Rare Aureate Staff, 659
+	Rare Lionguard Bow, 424
+	Masterwork Reinforced Priory Explorer's Scepter, 462
+	Rare Norn Staff, 632
+
+...
+Bag 1 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Warden Rifle, 922
+	Rare Adamant Guard Rifle, 978
+	Fine Sentinel's Pistol, 359
+	Rare Norn Scepter, 562
+	Rare Flame Pistol, 561
+
+...
+Bag 1 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Rare Pirate Barricade, 375
+	Rare Seraph Axe, 819
+	Rare Verdant Pistol, 595
+	Rare Krytan Staff, 416
+	Rare Steam Short Bow, 384
+
+...
+Bag 1 using Open Hashing with my Hashing Function2: 
+	(Rare Bandit Torch, 713); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Lionguard-Issue Shield, 175); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Mountain Shield, 433); (Fine Mountain Shield, 433); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Kraitbane Model I Pistol, 184); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Mace, 625); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 1 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Ebon Vanguard Pistol, 427
+	Rare Glyphic Icon, 354
+	Rare Ebon Vanguard Pistol, 877
+	Rare Lionguard Sword, 618
+	Rare Lionguard Scepter, 383
+
+...
+Bag 1 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Wren Axe, 662
+	Rare Glyphic Icon, 361
+	Rare Aureate Speargun, 614
+	Rare Steam Brand, 341
+	Rare Seraph Pistol, 828
+
+...
+Bag 1 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Bandit Revolver, 809
+	Rare Lionguard Staff, 624
+	Rare Glyphic Pistol, 372
+	Fine Proton Torch, 149
+	Rare Shiverpeak Handcannon, 408
+
+...
+Bag 1 using Open Hashing with my Hashing Function3: 
+	(Rare Pirate Barricade, 375); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Balanced Crusader's Mace, 484); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Bandit Demolisher, 859); (Rare Verdant Bow, 663); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Lionguard Spear, 863); (Rare Glyphic Icon, 361); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Flame Bow, 644); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 1 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Basic Pistol, 123
+	Masterwork Hatchet, 270
+	Rare Ebon Vanguard Staff, 650
+	Rare Aureate Speargun, 614
+	Fine Fisher's Shield, 163
+
+...
+Bag 1 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Rare Wolfborn Hammer, 938
+	Masterwork Lion's Claw Model II, 211
+	Rare Lionguard Shield, 789
+	Rare Lionguard Cannon, 410
+	Rare Lionguard Sword, 850
+
+...
+Bag 1 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Steam Pistol, 390
+	Rare Pirate Barricade, 375
+	Fine Bandit Demolisher, 777
+	Masterwork Balanced Crusader's Mace, 484
+	Masterwork Bandit Demolisher, 859
+
+...
+Bag 2 using Open Hashing with my Hashing Function1: 
+	(Fine Patrol Torch, 163); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Foewatch Shield, 301); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Bandit Short Bow, 784); (Rare Warden Short Bow, 861); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Scepter, 383); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Bow, 855); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 2 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Fine Tamini Axe, 186
+	Rare Warden Rifle, 922
+	Rare Peacemaker's Greatsword, 926
+	Fine Iron Polearm, 795
+	Masterwork Bandit Short Bow, 784
+
+...
+Bag 2 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Pirate Barricade, 375
+	Fine Razor-Sharp Dagger, 212
+	Masterwork Volatile Explorer's Torch, 441
+	Masterwork Bloodsaw Greatsword, 289
+	Fine Quetzal Trident, 181
+
+...
+Bag 2 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Fine Waldo's Torch, 187
+	Fine Kraitbane Model I Pistol, 184
+	Rare Steam Short Bow, 384
+	Fine Twinspur Pistol, 162
+	Fine Iron Polearm, 760
+
+...
+Bag 2 using Open Hashing with my Hashing Function2: 
+	(Rare Pirate Flintlock, 399); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Wolfborn Rifle, 1019); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Glyphic Pistol, 411); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Fine Caer Longbow, 526); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Cannon, 806); (Rare Lionguard Cannon, 569); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 2 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Bandit Shiv, 845
+	Masterwork Lion's Claw Model II, 211
+	Fine Lionguard-Issue Shield, 175
+	Rare Glyphic Pistol, 411
+	Rare Verdant Focus, 542
+
+...
+Bag 2 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Fine Militia Rifle, 200
+	Fine Lionguard-Issue Shield, 175
+	Rare Verdant Focus, 542
+	Rare Steam Brand, 341
+	Rare Shiverpeak Maul, 454
+
+...
+Bag 2 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Wren Axe, 662
+	Rare Glyphic Icon, 361
+	Rare Norn Trident, 622
+	Fine Bandit Slicer, 715
+	Rare Steam Brand, 341
+
+...
+Bag 2 using Open Hashing with my Hashing Function3: 
+	(Rare Flame Blade, 621); (Rare Lionguard Sword, 395); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Krytan Warhammer, 426); (Rare Ebon Vanguard Short Bow, 622); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Ancient Focus, 293); (Rare Verdant Bow, 663); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Ebon Vanguard Speargun, 381); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Trident, 607); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 2 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Rare Verdant Scepter, 620
+	Rare Verdant Focus, 542
+	Rare Verdant Warhammer, 659
+	Rare Lionguard Sword, 395
+	Rare Lionguard Sword, 395
+
+...
+Bag 2 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Fine Explorer's Focus, 389
+	Rare Steam Pistol, 390
+	Rare Lionguard Trident, 827
+	Rare Lionguard Sword, 411
+	Masterwork Bandit Demolisher, 859
+
+...
+Bag 2 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Shiverpeak Trident, 401
+	Rare Norn Rifle, 702
+	Rare Lionguard Sword, 622
+	Rare Ebon Vanguard Short Bow, 875
+	Rare Ebon Vanguard Dagger, 386
+
+...
+Bag 3 using Open Hashing with my Hashing Function1: 
+	(Rare Wolfborn Longbow, 855); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Kraitbane Model I Pistol, 184); (Fine Warden's Staff, 172); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Warden Short Bow, 861); (Fine Iron Polearm, 760); (Rare Warden Short Bow, 861); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Wayward Shield, 638); (Fine Proton Torch, 149); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Bloodsaw Greatsword, 289); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 3 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Rare Pirate Cutlass, 394
+	Rare Warden Rifle, 922
+	Fine Razor-Sharp Dagger, 212
+	Fine Iron Polearm, 760
+	Fine Charged Focus, 163
+
+...
+Bag 3 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Fine Tamini Axe, 186
+	Fine Twinspur Rifle, 176
+	Fine Windgrown Short Bow, 158
+	Masterwork Hatchet, 270
+	Fine Hunter's Trident, 488
+
+...
+Bag 3 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Fine Longbow, 191
+	Rare Peacemaker's Greatsword, 926
+	Fine Razor-Sharp Dagger, 212
+	Masterwork Bandit Ward, 690
+	Masterwork Bandit Short Bow, 784
+
+...
+Bag 3 using Open Hashing with my Hashing Function2: 
+	(Masterwork Wren Axe, 662); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Aureate Speargun, 614); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Shiverpeak Staff, 429); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Wolfborn Staff, 899); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Mountain Shield, 433); (Fine Mountain Sword, 476); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 3 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Lion's Claw Model II, 211
+	Rare Pirate Speargun, 408
+	Rare Aureate Dirk, 585
+	Rare Aureate Dirk, 585
+	Rare Shiverpeak Staff, 429
+
+...
+Bag 3 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Wren Axe, 662
+	Rare Pirate Flintlock, 399
+	Rare Ebon Vanguard Torch, 558
+	Basic Dull Dagger, 119
+	Rare Shiverpeak Staff, 429
+
+...
+Bag 3 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Magi's Soft Wood Scepter, 429
+	Rare Black Earth Trident, 867
+	Rare Aureate Speargun, 614
+	Rare Glyphic Pistol, 372
+	Rare Norn Staff, 632
+
+...
+Bag 3 using Open Hashing with my Hashing Function3: 
+	(Fine Radiation Shield, 166); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Fisher's Shield, 163); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Glyphic Maul, 419); (Rare Lionguard Sword, 411); (Fine Bandit Demolisher, 777); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Balanced Crusader's Mace, 484); (Fine Researcher's Scepter, 229); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Verdant Bow, 578); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 3 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Rare Ebon Vanguard Staff, 650
+	Rare Flame Spear, 578
+	Rare Lionguard Sword, 850
+	Fine Researcher's Scepter, 229
+	Fine Enhanced Miner's Hammer Mark G, 428
+
+...
+Bag 3 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Rare Flame Cleaver, 553
+	Rare Lionguard Cannon, 410
+	Rare Lionguard Sword, 395
+	Fine Briarthorn Dagger, 158
+	Rare Verdant Bow, 578
+
+...
+Bag 3 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Masterwork Bloodsaw Sword, 248
+	Fine Lion's Claw Model I, 189
+	Rare Aureate Speargun, 614
+	Fine Thunderhead Axe, 508
+	Rare Ebon Vanguard Short Bow, 622
+
+...
+Bag 4 using Open Hashing with my Hashing Function1: 
+	(Fine Aethervolt Spear, 207); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Proton Torch, 149); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Scepter, 383); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Bow, 414); (Rare Lionguard Bow, 673); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Mace, 625); (Rare Lionguard Mace, 375); (Rare Lionguard Mace, 803); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 4 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Bandit Short Bow, 784
+	Fine Proton Torch, 149
+	Rare Lionguard Scepter, 402
+	Rare Lionguard Scepter, 595
+	Rare Verdant Speargun, 566
+
+...
+Bag 4 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Flame Crusher, 620
+	Rare Glyphic Scepter, 406
+	Fine Razor-Sharp Dagger, 212
+	Masterwork Silenced Dagger, 479
+	Rare Warden Short Bow, 861
+
+...
+Bag 4 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Fine Tamini Axe, 186
+	Rare Lionguard Staff, 901
+	Rare Warden Rifle, 922
+	Masterwork Silenced Dagger, 479
+	Rare Ebon Vanguard Axe, 370
+
+...
+Bag 4 using Open Hashing with my Hashing Function2: 
+	(Rare Glyphic Icon, 354); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Aureate Dirk, 585); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Carving Knife, 193); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Trader's Dagger, 163); (Fine Trader's Dagger, 163); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Hatchet, 270); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 4 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Bandit Torch, 713
+	Rare Glyphic Icon, 354
+	Rare Pirate Speargun, 408
+	Rare Glyphic Icon, 354
+	Rare Shiverpeak Staff, 429
+
+...
+Bag 4 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Fine Waterlogged Rifle, 518
+	Rare Lionguard Staff, 624
+	Rare Adamant Guard Shield, 764
+	Fine Mountain Sword, 476
+	Fine Kraitbane Model I Pistol, 184
+
+...
+Bag 4 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Fine Militia Rifle, 200
+	Rare Warden Greatsword, 936
+	Fine Briarthorn Dagger, 158
+	Rare Glyphic Maul, 412
+	Rare Shiverpeak Staff, 429
+
+...
+Bag 4 using Open Hashing with my Hashing Function3: 
+	(Rare Wolfborn Hammer, 938); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Sword, 850); (Rare Lionguard Sword, 622); (Rare Glyphic Maul, 412); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Glyphic Mace, 409); (Rare Verdant Bow, 578); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Ebon Vanguard Shield, 731); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Axe, 560); (Rare Lionguard Axe, 916); (Rare Lionguard Trident, 827); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 4 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Rare Flame Spear, 578
+	Rare Lionguard Sword, 622
+	Rare Ebon Vanguard Short Bow, 875
+	Rare Wolfborn Longbow, 855
+	Rare Ebon Vanguard Shield, 516
+
+...
+Bag 4 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Masterwork Bandit Sunderer, 839
+	Rare Lionguard Sword, 395
+	Rare Ebon Vanguard Short Bow, 404
+	Fine Lionguard Spear, 863
+	Rare Lionguard Axe, 583
+
+...
+Bag 4 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Wolfborn Hammer, 938
+	Rare Wolfborn Rifle, 1019
+	Rare Ebon Vanguard Short Bow, 622
+	Rare Glyphic Mace, 409
+	Rare Lionguard Dagger, 406
+
+...
+Bag 5 using Open Hashing with my Hashing Function1: 
+	(Rare Wolfborn Longbow, 855); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Aureate Staff, 659); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Charged Focus, 156); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Scepter, 811); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Bow, 673); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 5 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Fine Bandit Cleaver, 663
+	Rare Pirate Barricade, 375
+	Fine Longbow, 191
+	Rare Pirate Barricade, 375
+	Rare Pirate Barricade, 375
+
+...
+Bag 5 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Steam Shield, 347
+	Rare Glyphic Icon, 361
+	Rare Krytan Axe, 422
+	Masterwork Bandit Short Bow, 784
+	Rare Lionguard Scepter, 383
+
+...
+Bag 5 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Fine Patrol Torch, 163
+	Rare Pirate Cutlass, 394
+	Rare Peacemaker's Scepter, 829
+	Fine Lionguard Iron Mace, 283
+	Fine Charged Focus, 156
+
+...
+Bag 5 using Open Hashing with my Hashing Function2: 
+	(Rare Glyphic Pistol, 372); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Proton Torch, 149); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Adamant Guard Shield, 764); (Masterwork Fine Caer Longbow, 526); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Improved Pirate Handblade, 540); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Glyphic Trispear, 394); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 5 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Lionguard Scepter, 383
+	Masterwork Wren Axe, 662
+	Rare Adamant Guard Shield, 764
+	Masterwork Bandit Baton, 765
+	Fine Bandit Slicer, 715
+
+...
+Bag 5 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Waldo's Special Torch, 195
+	Masterwork Shadowed Researcher's Staff, 282
+	Masterwork Fine Hunter's Speargun, 519
+	Fine Bandit Slicer, 715
+	Masterwork Bandit Musket, 985
+
+...
+Bag 5 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Warden Short Bow, 861
+	Rare Aureate Speargun, 614
+	Rare Glyphic Pistol, 411
+	Rare Lionguard Brand, 815
+	Rare Aureate Dirk, 585
+
+...
+Bag 5 using Open Hashing with my Hashing Function3: 
+	(Fine Radiation Shield, 166); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Sword, 869); (Rare Flame Blade, 621); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Balanced Crusader's Mace, 484); (Rare Ebon Vanguard Short Bow, 622); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Ebon Vanguard Speargun, 381); (Rare Ebon Vanguard Shield, 731); (Fine Lionguard Spear, 851); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Krytan Scepter, 415); (Rare Lionguard Trident, 827); (Masterwork Patient Sword, 377); (Rare Lionguard Axe, 863); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 5 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Fine Soundless Hammer, 178
+	Fine Explorer's Focus, 389
+	Rare Lionguard Sword, 395
+	Fine Researcher's Scepter, 229
+	Fine Bandit Demolisher, 777
+
+...
+Bag 5 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Fine Explorer's Focus, 389
+	Rare Lionguard Brand, 577
+	Rare Aureate Speargun, 614
+	Rare Pirate Barricade, 375
+	Fine Ancient Focus, 293
+
+...
+Bag 5 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Basic Pistol, 123
+	Fine Radiation Shield, 166
+	Fine Separatist Rifle, 188
+	Rare Glyphic Maul, 419
+	Fine Skritt Poker, 159
+
+...
+Bag 6 using Open Hashing with my Hashing Function1: 
+	(Fine Tamini Axe, 186); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Black Earth Trident, 765); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Steam Short Bow, 384); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Foewatch Shield, 301); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Verdant Speargun, 585); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 6 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Rare Pirate Barricade, 375
+	Fine Warden's Staff, 172
+	Rare Peacemaker's Scepter, 829
+	Fine Skale Zapper, 195
+	Rare Glyphic Short Bow, 389
+
+...
+Bag 6 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Fine Tamini Axe, 186
+	Fine Razor-Sharp Dagger, 212
+	Fine Aethervolt Spear, 207
+	Masterwork Norn Night Light, 215
+	Masterwork Bandit Short Bow, 784
+
+...
+Bag 6 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Rare Flame Blade, 621
+	Basic Pistol, 123
+	Masterwork Balanced Crusader's Mace, 484
+	Fine Shank Dagger, 711
+	Masterwork Bandit Short Bow, 784
+
+...
+Bag 6 using Open Hashing with my Hashing Function2: 
+	(Masterwork Wren Axe, 662); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Glyphic Icon, 361); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Glyphic Pistol, 372); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Steam Brand, 341); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Basic Dull Dagger, 119); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 6 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Bandit Longbow, 854
+	Rare Glyphic Pistol, 411
+	Rare Wolfborn Staff, 899
+	Fine Mountain Sword, 476
+	Fine Mountain Shield, 433
+
+...
+Bag 6 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Rare Glyphic Icon, 361
+	Rare Glyphic Pistol, 372
+	Rare Steam Brand, 341
+	Fine Proton Torch, 149
+	Fine Charged Scepter, 169
+
+...
+Bag 6 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Bandit Torch, 713
+	Masterwork Norn Night Light, 215
+	Fine Shipwreck Speargun, 523
+	Rare Glyphic Speargun, 387
+	Rare Shiverpeak Handcannon, 408
+
+...
+Bag 6 using Open Hashing with my Hashing Function3: 
+	(Rare Flame Spear, 578); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Flame Blade, 621); (Fine Bandit Demolisher, 777); (Rare Glyphic Maul, 412); (Rare Lionguard Sword, 869); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Krytan Warhammer, 426); (Fine Enhanced Miner's Hammer Mark G, 428); (Rare Ebon Vanguard Short Bow, 404); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Bandit Demolisher, 859); (Rare Glyphic Mace, 409); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Ebon Vanguard Shield, 357); (Rare Ebon Vanguard Shield, 357); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 6 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Rare Peacemaker's Sword, 808
+	Rare Verdant Focus, 542
+	Rare Flame Cleaver, 553
+	Fine Fisher's Shield, 163
+	Rare Lionguard Sword, 395
+
+...
+Bag 6 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Rare Warden Longbow, 882
+	Fine Charged Staff, 185
+	Rare Steam Pistol, 390
+	Rare Lionguard Cannon, 410
+	Rare Lionguard Sword, 869
+
+...
+Bag 6 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Basic Pistol, 123
+	Rare Aureate Speargun, 614
+	Rare Glyphic Maul, 412
+	Rare Ebon Vanguard Short Bow, 875
+	Masterwork Bandit Demolisher, 859
+
+...
+Bag 7 using Open Hashing with my Hashing Function1: 
+	(Fine Longbow, 191); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Kraitbane Model I Pistol, 184); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Charged Focus, 156); (Fine Skale Zapper, 195); (Fine Charged Focus, 163); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Scepter, 567); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Bow, 855); (Rare Glyphic Short Bow, 385); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 7 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Fine Tamini Axe, 186
+	Rare Pirate Barricade, 375
+	Rare Krytan Staff, 416
+	Rare Krytan Staff, 416
+	Fine Quetzal Trident, 181
+
+...
+Bag 7 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Black Earth Trident, 765
+	Rare Warden Rifle, 922
+	Rare Peacemaker's Scepter, 829
+	Rare Flame Scepter, 597
+	Masterwork Sentinel's Pistol, 408
+
+...
+Bag 7 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Fine Longbow, 191
+	Fine Waldo's Torch, 187
+	Rare Glyphic Staff, 422
+	Rare Ebon Vanguard Sword, 819
+	Rare Warden Short Bow, 861
+
+...
+Bag 7 using Open Hashing with my Hashing Function2: 
+	(Rare Glyphic Icon, 361); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Proton Torch, 149); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Improved Pirate Handblade, 540); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Wolfborn Staff, 899); (Rare Glyphic Trispear, 394); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Mountain Shield, 433); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 7 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Lion's Claw Model II, 211
+	Rare Pirate Flintlock, 399
+	Masterwork Wren Axe, 662
+	Fine Militia Rifle, 200
+	Rare Steam Brand, 341
+
+...
+Bag 7 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Shadowed Researcher's Staff, 282
+	Fine Proton Torch, 149
+	Rare Steam Hammer, 461
+	Rare Glyphic Trispear, 394
+	Rare Peacemaker's Pistol, 794
+
+...
+Bag 7 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Fine Militia Rifle, 200
+	Fine Lionguard-Issue Shield, 175
+	Rare Glyphic Pistol, 411
+	Rare Seraph Hammer, 952
+	Rare Wolfborn Staff, 899
+
+...
+Bag 7 using Open Hashing with my Hashing Function3: 
+	(Rare Wolfborn Hammer, 938); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Flame Spear, 578); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Flame Cleaver, 553); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Thunderhead Axe, 508); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Portal Shatterer, 183); (Rare Ebon Vanguard Short Bow, 875); (Masterwork Balanced Crusader's Mace, 484); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 7 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Rare Pirate Barricade, 375
+	Rare Pirate Barricade, 375
+	Rare Krytan Warhammer, 426
+	Rare Ebon Vanguard Short Bow, 622
+	Masterwork Improved Pirate Handblade, 540
+
+...
+Bag 7 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Rare Verdant Blade, 623
+	Rare Flame Spear, 578
+	Rare Steam Pistol, 390
+	Rare Lionguard Sword, 618
+	Fine Portal Shatterer, 183
+
+...
+Bag 7 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Wolfborn Hammer, 938
+	Rare Seraph Hammer, 952
+	Masterwork Improved Pirate Handblade, 540
+	Rare Ebon Vanguard Hammer, 431
+	Rare Verdant Bow, 663
+
+...
+Bag 8 using Open Hashing with my Hashing Function1: 
+	(Fine Warden's Staff, 172); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Wayward Shield, 638); (Masterwork Wayward Shield, 638); (Rare Verdant Speargun, 585); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Scepter, 811); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Seraph Speargun, 844); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Reinforced Priory Explorer's Scepter, 462); (Rare Aureate Warhammer, 631); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 8 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Fine Longbow, 191
+	Rare Pirate Barricade, 375
+	Masterwork Black Earth Trident, 765
+	Fine Charged Focus, 156
+	Masterwork Wayward Shield, 638
+
+...
+Bag 8 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Fine Longbow, 191
+	Fine Twinspur Rifle, 176
+	Rare Peacemaker's Greatsword, 926
+	Fine Briarthorn Dagger, 158
+	Fine Kraitbane Model I Pistol, 184
+
+...
+Bag 8 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Rare Verdant Bow, 578
+	Fine Researcher's Staff, 252
+	Rare Lionguard Trident, 812
+	Rare Krytan Staff, 416
+	Rare Steam Short Bow, 384
+
+...
+Bag 8 using Open Hashing with my Hashing Function2: 
+	(Rare Glyphic Icon, 361); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Aureate Speargun, 614); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Carving Knife, 193); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Cannon, 869); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Caer Brier Mace, 615); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 8 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Balanced Crusader's Hammer, 589
+	Fine Force-Amplifying Impact Device, 173
+	Rare Steamblade, 417
+	Rare Flame Carrier, 576
+	Rare Lionguard Sword, 869
+
+...
+Bag 8 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Rare Bandit Torch, 713
+	Fine Militia Rifle, 200
+	Rare Adamant Guard Greatsword, 914
+	Rare Adamant Guard Short Bow, 817
+	Fine Fireman's Axe, 173
+
+...
+Bag 8 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Shadowed Researcher's Staff, 282
+	Rare Lionguard Short Bow, 391
+	Rare Steam Brand, 341
+	Fine Hunting Pistol, 167
+	Masterwork Potatlan's Better Axe, 499
+
+...
+Bag 8 using Open Hashing with my Hashing Function3: 
+	(Rare Glyphic Maul, 419); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Krytan Warhammer, 426); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Glyphic Mace, 386); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Patient Sword, 377); (Rare Flame Bow, 644); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Kraitbane Model I Pistol, 184); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 8 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Basic Pistol, 123
+	Fine Thunderhead Axe, 508
+	Fine Researcher's Scepter, 229
+	Masterwork Bandit Demolisher, 859
+	Rare Ebon Vanguard Shield, 357
+
+...
+Bag 8 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Basic Wooden Rod, 111
+	Rare Flame Spear, 578
+	Rare Flame Cleaver, 553
+	Rare Lionguard Trident, 402
+	Basic Wooden Longbow, 130
+
+...
+Bag 8 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Masterwork Bandit Sunderer, 839
+	Fine Charged Focus, 163
+	Rare Lionguard Sword, 869
+	Fine Enhanced Miner's Hammer Mark G, 428
+	Fine Ancient Focus, 293
+
+...
+Bag 9 using Open Hashing with my Hashing Function1: 
+	(Masterwork Black Earth Trident, 765); (Masterwork Black Earth Trident, 765); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Warden Rifle, 922); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Aureate Staff, 659); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Aethervolt Spear, 207); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Charged Focus, 156); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 9 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Rare Krytan Staff, 416
+	Rare Steam Short Bow, 384
+	Fine Quetzal Trident, 181
+	Fine Skale Zapper, 195
+	Rare Lionguard Scepter, 383
+
+...
+Bag 9 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Rare Krytan Axe, 422
+	Fine Explorer's Focus, 389
+	Rare Krytan Axe, 422
+	Fine Patrol Torch, 163
+	Rare Verdant Mace, 575
+
+...
+Bag 9 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Fine Skale-Fin Focus, 164
+	Rare Peacemaker's Greatsword, 926
+	Rare Peacemaker's Scepter, 829
+	Rare Shiverpeak Maul, 454
+	Rare Glyphic Pistol, 372
+
+...
+Bag 9 using Open Hashing with my Hashing Function2: 
+	(Rare Wolfborn Pistol, 799); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Mountain Shield, 433); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Warden Mace, 850); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Mace, 625); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Glyphic Ward, 345); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 9 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Rare Lionguard Scepter, 878
+	Rare Ebon Vanguard Mace, 391
+	Masterwork Improved Shipwreck Speargun, 567
+	Rare Adamant Guard Shield, 764
+	Rare Glyphic Trispear, 394
+
+...
+Bag 9 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Wren Axe, 662
+	Rare Adamant Guard Scepter, 862
+	Rare Lionguard Sword, 618
+	Rare Wolfborn Pistol, 799
+	Rare Glyphic Trispear, 394
+
+...
+Bag 9 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Rare Bandit Torch, 713
+	Masterwork Wren Axe, 662
+	Rare Aureate Dirk, 585
+	Rare Shiverpeak Staff, 429
+	Rare Seraph Speargun, 844
+
+...
+Bag 9 using Open Hashing with my Hashing Function3: 
+	(Rare Norn Rifle, 702); (Fine Radiation Shield, 166); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Flame Blade, 621); (Rare Glyphic Maul, 412); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Fine Lionguard Spear, 863); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Flame Bow, 644); (Rare Lionguard Trident, 392); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Mace, 625); (Fine verdant Axe, 157); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 9 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Rare Norn Rifle, 702
+	Fine Researcher's Scepter, 229
+	Rare Verdant Bow, 663
+	Rare Ebon Vanguard Shield, 731
+	Rare Lionguard Trident, 812
+
+...
+Bag 9 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Fine Hunter's Harpoon, 482
+	Masterwork Bandit Spire, 820
+	Rare Flame Cleaver, 553
+	Rare Lionguard Cannon, 410
+	Rare Flame Blade, 621
+
+...
+Bag 9 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Rare Glyphic Short Bow, 385
+	Fine Thunderhead Axe, 508
+	Fine Skritt Poker, 159
+	Rare Ebon Vanguard Shield, 357
+	Rare Lionguard Trident, 827
+
+...
+Bag 10 using Open Hashing with my Hashing Function1: 
+	(Rare Pirate Barricade, 375); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Aureate Staff, 659); (Fine Warden's Staff, 172); (Rare Peacemaker's Scepter, 829); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Masterwork Silenced Dagger, 479); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Scepter, 567); (Rare Lionguard Scepter, 402); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Lionguard Bow, 647); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 10 using Linear-Probing Closed Hashing with my Hashing Function1: 
+	Rare Pirate Crescent, 408
+	Rare Warden Rifle, 922
+	Fine Quetzal Trident, 181
+	Fine Proton Torch, 149
+	Rare Lionguard Scepter, 383
+
+...
+Bag 10 using Pseudo-Random-Probing Closed Hashing with my Hashing Function1: 
+	Masterwork Lion's Claw Model II, 211
+	Rare Warden Rifle, 922
+	Fine Aethervolt Spear, 207
+	Rare Verdant Speargun, 566
+	Rare Lionguard Axe, 583
+
+...
+Bag 10 using Double-Hashing-Probing Closed Hashing with my Hashing Function1: 
+	Fine Wardenhurst Mace, 156
+	Masterwork Bloodsaw Sword, 248
+	Rare Peacemaker's Pistol, 794
+	Fine Skale Zapper, 195
+	Rare Lionguard Scepter, 567
+
+...
+Bag 10 using Open Hashing with my Hashing Function2: 
+	(Fine Lionguard-Issue Shield, 175); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Glyphic Pistol, 411); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Aureate Dirk, 585); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Shiverpeak Staff, 429); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Glyphic Trispear, 384); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 10 using Linear-Probing Closed Hashing with my Hashing Function2: 
+	Masterwork Balanced Crusader's Hammer, 589
+	Rare Peacemaker's Mace, 801
+	Rare Aureate Speargun, 614
+	Masterwork Fine Caer Longbow, 526
+	Rare Glyphic Trispear, 394
+
+...
+Bag 10 using Pseudo-Random-Probing Closed Hashing with my Hashing Function2: 
+	Fine Militia Rifle, 200
+	Rare Pirate Speargun, 408
+	Rare Lionguard Sword, 850
+	Rare Wolfborn Hammer, 938
+	Masterwork Fine Caer Longbow, 526
+
+...
+Bag 10 using Double-Hashing-Probing Closed Hashing with my Hashing Function2: 
+	Fine Bandit Ward, 658
+	Rare Glyphic Pistol, 372
+	Rare Steam Brand, 341
+	Rare Bandit Ward, 754
+	Masterwork Patient Sword, 377
+
+...
+Bag 10 using Open Hashing with my Hashing Function3: 
+	(Fine Radiation Shield, 166); (Rare Flame Spear, 578); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Aureate Speargun, 614); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Krytan Warhammer, 426); (Rare Ebon Vanguard Short Bow, 875); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Verdant Bow, 578); (Fine Skritt Poker, 159); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+	(Rare Ebon Vanguard Shield, 731); (Rare Ebon Vanguard Speargun, 381); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null); (null);
+
+...
+Bag 10 using Linear-Probing Closed Hashing with my Hashing Function3: 
+	Fine Radiation Shield, 166
+	Rare Aureate Speargun, 614
+	Rare Lionguard Sword, 622
+	Rare Verdant Bow, 578
+	Rare Ebon Vanguard Shield, 357
+
+...
+Bag 10 using Pseudo-Random-Probing Closed Hashing with my Hashing Function3: 
+	Basic Pistol, 123
+	Rare Norn Rifle, 702
+	Rare Lionguard Cannon, 806
+	Rare Lionguard Sword, 411
+	Masterwork Balanced Crusader's Mace, 484
+
+...
+Bag 10 using Double-Hashing-Probing Closed Hashing with my Hashing Function3: 
+	Fine Explorer's Focus, 389
+	Rare Ebon Vanguard Mace, 391
+	Rare Glyphic Pistol, 372
+	Rare Flame Blade, 621
+	Fine Enhanced Miner's Hammer Mark G, 428
+
+...
+
+Searching for Rare Flame Speargun... 
+Found in (bag 1 slots 76,  Strengths: 588) (bag 1 slots 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76. 76,  Strengths: 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588) (bag 1 slots 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41,  Strengths: 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588) (bag 3 slots 165,  Strengths: 588) (bag 5 slots 41,  Strengths: 588) (bag 5 slots 73,  Strengths: 588) (bag 6 slots 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41. 41,  Strengths: 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588) (bag 8 slots 41,  Strengths: 588) (bag 8 slots 73,  Strengths: 588) (bag 9 slots 73,  Strengths: 588) (bag 10 slots 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77,  Strengths: 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588) (bag 10 slots 73,  Strengths: 588) (bag 10 slots 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73. 73,  Strengths: 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588, 588)
+
+Searching for Rare Pirate Harpoon... 
+Found in (bag 1 slots 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57,  Strengths: 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393) (bag 1 slots 57,  Strengths: 393) (bag 1 slots 50,  Strengths: 393) (bag 2 slots 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189,  Strengths: 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393) (bag 3 slots 57,  Strengths: 393) (bag 3 slots 189,  Strengths: 393) (bag 3 slots 189,  Strengths: 393) (bag 4 slots 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57,  Strengths: 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393) (bag 6 slots 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57. 57,  Strengths: 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393) (bag 6 slots 189,  Strengths: 393) (bag 6 slots 106,  Strengths: 393) (bag 7 slots 57,  Strengths: 393) (bag 7 slots 50,  Strengths: 393) (bag 8 slots 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189. 189,  Strengths: 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393, 393) (bag 8 slots 189,  Strengths: 393) (bag 9 slots 162,  Strengths: 393) (bag 10 slots 50,  Strengths: 393)
+
+Searching for Masterwork Balanced Crusader's Hammer... 
+Found in (bag 2 slots 168,  Strengths: 589) (bag 2 slots 168. 41,  Strengths: 589, 589) (bag 2 slots 158,  Strengths: 589) (bag 2 slots 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160. 160,  Strengths: 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589) (bag 4 slots 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168. 168,  Strengths: 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589) (bag 5 slots 168,  Strengths: 589) (bag 5 slots 168,  Strengths: 589) (bag 5 slots 198,  Strengths: 589) (bag 5 slots 158,  Strengths: 589) (bag 8 slots 168,  Strengths: 589) (bag 8 slots 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0,  Strengths: 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589) (bag 9 slots 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198. 198,  Strengths: 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589) (bag 10 slots 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0,  Strengths: 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589, 589) (bag 10 slots 158,  Strengths: 589)
+
+Searching for Fine Mountain Shield... 
+Found in (bag 1 slots 127,  Strengths: 433) (bag 1 slots 127. 19,  Strengths: 433, 433) (bag 1 slots 11. 11,  Strengths: 433, 433, 433, 433) (bag 1 slots 78,  Strengths: 433) (bag 2 slots 127,  Strengths: 433) (bag 2 slots 84,  Strengths: 433) (bag 2 slots 11,  Strengths: 433) (bag 2 slots 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55. 55,  Strengths: 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433) (bag 3 slots 11,  Strengths: 433) (bag 3 slots 54,  Strengths: 433) (bag 4 slots 127. 81,  Strengths: 433, 433) (bag 4 slots 156,  Strengths: 433) (bag 6 slots 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12. 12,  Strengths: 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433) (bag 6 slots 54,  Strengths: 433) (bag 7 slots 11,  Strengths: 433) (bag 7 slots 11,  Strengths: 433) (bag 9 slots 11,  Strengths: 433) (bag 9 slots 114,  Strengths: 433) (bag 10 slots 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54. 54,  Strengths: 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433)
+
+Searching for Fine Bandit Sunderer... 
+Found in (bag 1 slots 69,  Strengths: 798) (bag 2 slots 69,  Strengths: 798) (bag 2 slots 69,  Strengths: 798) (bag 2 slots 97,  Strengths: 798) (bag 3 slots 170,  Strengths: 798) (bag 3 slots 69,  Strengths: 798) (bag 4 slots 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69,  Strengths: 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798) (bag 4 slots 97. 97,  Strengths: 798, 798, 798, 798) (bag 5 slots 69,  Strengths: 798) (bag 5 slots 97,  Strengths: 798) (bag 5 slots 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97,  Strengths: 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798) (bag 6 slots 170,  Strengths: 798) (bag 6 slots 69,  Strengths: 798) (bag 7 slots 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69,  Strengths: 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798) (bag 7 slots 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97. 97,  Strengths: 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798) (bag 8 slots 97,  Strengths: 798) (bag 8 slots 69,  Strengths: 798) (bag 9 slots 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69,  Strengths: 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798) (bag 9 slots 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99. 99,  Strengths: 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798) (bag 10 slots 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170. 170,  Strengths: 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798) (bag 10 slots 64,  Strengths: 798) (bag 10 slots 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69. 69,  Strengths: 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798, 798) (bag 10 slots 69,  Strengths: 798) (bag 10 slots 97,  Strengths: 798)
+
+
+Total average
+4694 21196 1912 1820 5076 20010 3142 2392 3364 21518 3000 2562 
